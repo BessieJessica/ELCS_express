@@ -86,3 +86,54 @@
 2015-10-16 08:43:58,165 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCSŒÔ¡˜π‹¿ÌœµÕ≥\express\server\src\main\resources
 2015-10-16 08:43:58,165 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2015-10-16 08:43:58,165 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCSŒÔ¡˜π‹¿ÌœµÕ≥\express\server\src\test\resources
+2015-10-23 09:47:02,940 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: Pioneer:express:0.0.1-SNAPSHOT @ C:\Users\÷Ï∑Â\ELCS_express\express\pom.xml.
+2015-10-23 09:47:04,058 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: Pioneer:express:0.0.1-SNAPSHOT @ C:\Users\÷Ï∑Â\ELCS_express\express\pom.xml.
+2015-10-23 09:48:09,479 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: Pioneer:ELCS_express:0.0.1-SNAPSHOT @ C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\pom.xml.
+2015-10-23 09:48:26,931 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\pom.xml
+2015-10-23 09:48:30,292 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Pioneer:client:0.0.1-SNAPSHOT @ C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\pom.xml.
+2015-10-23 09:48:30,970 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /client/src/main/java
+2015-10-23 09:48:30,978 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /client/src/test/java
+2015-10-23 09:48:31,176 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2015-10-23 09:48:32,343 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: Pioneer:ELCS_express:0.0.1-SNAPSHOT @ C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\pom.xml.
+2015-10-23 09:48:34,113 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Pioneer:client:0.0.1-SNAPSHOT @ C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\pom.xml.
+2015-10-23 09:48:35,016 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-23 09:48:35,016 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-23 09:48:35,019 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-23 09:48:35,019 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-23 09:48:54,354 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\pom.xml
+2015-10-23 09:48:54,465 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Pioneer:server:0.0.1-SNAPSHOT @ C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\pom.xml.
+2015-10-23 09:48:54,544 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /server/src/main/java
+2015-10-23 09:48:54,547 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /server/src/test/java
+2015-10-23 09:48:54,595 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2015-10-23 09:48:55,068 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: Pioneer:ELCS_express:0.0.1-SNAPSHOT @ C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\pom.xml.
+2015-10-23 09:48:55,941 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Pioneer:client:0.0.1-SNAPSHOT @ C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\pom.xml.
+2015-10-23 09:48:56,047 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Pioneer:server:0.0.1-SNAPSHOT @ C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\pom.xml.
+2015-10-23 09:48:56,882 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-23 09:48:56,883 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-23 09:48:56,886 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-23 09:48:56,886 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-23 09:48:56,950 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-23 09:48:56,950 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-23 09:48:56,952 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-23 09:48:56,952 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-23 09:49:48,739 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\pom.xml
+2015-10-23 09:49:48,852 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Pioneer:model:0.0.1-SNAPSHOT @ C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\pom.xml.
+2015-10-23 09:49:48,930 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /model/src/main/java
+2015-10-23 09:49:48,933 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /model/src/test/java
+2015-10-23 09:49:48,978 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2015-10-23 09:49:49,418 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: Pioneer:ELCS_express:0.0.1-SNAPSHOT @ C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\pom.xml.
+2015-10-23 09:49:49,915 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Pioneer:server:0.0.1-SNAPSHOT @ C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\pom.xml.
+2015-10-23 09:49:49,964 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Pioneer:client:0.0.1-SNAPSHOT @ C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\pom.xml.
+2015-10-23 09:49:50,010 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Pioneer:model:0.0.1-SNAPSHOT @ C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\pom.xml.
+2015-10-23 09:49:50,456 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-23 09:49:50,456 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-23 09:49:50,459 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-23 09:49:50,460 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-23 09:49:50,481 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-23 09:49:50,481 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\main\resources
+2015-10-23 09:49:50,482 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-23 09:49:50,483 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\test\resources
+2015-10-23 09:49:50,502 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-23 09:49:50,503 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-23 09:49:50,504 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-23 09:49:50,504 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources

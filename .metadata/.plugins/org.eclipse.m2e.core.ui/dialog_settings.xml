@@ -31,8 +31,6 @@
 			<item value="org.model"/>
 			<item value="org.server"/>
 			<item value="org.client"/>
-			<item value="Pioneer"/>
-			<item value="org."/>
 		</list>
 		<list key="artifactId">
 			<item value="model"/>
@@ -81,7 +79,7 @@
 		</list>
 		<list key="artifactId">
 			<item value="model"/>
-			<item value="express"/>
+			<item value="ELCS_express"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

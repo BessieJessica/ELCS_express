@@ -1,0 +1,11 @@
+package nju.edu.express.businesserui;
+
+public class Car {
+
+	/**
+	 * 添加车辆信息，显示NewCarPanel
+	 */
+	public void addCar(){
+		
+	}
+}

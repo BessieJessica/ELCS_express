@@ -1,0 +1,5 @@
+package nju.edu.express.logisticsui;
+
+public class LogisticsPanel extends JPanel{
+
+}

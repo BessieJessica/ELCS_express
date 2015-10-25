@@ -1,0 +1,29 @@
+1445704449804	Rename package 'org.client'
+1445704465100	Delete element
+1445704569967	Rename package 'express.transiterui'
+1445704581567	Rename package 'express.signinui'
+1445704587080	Rename package 'express.mainui'
+1445704594754	Rename package 'express.logisticsui'
+1445704637675	Rename package 'managerui'
+1445704662529	Rename package 'express.businesserui'
+1445704976616	Delete element
+1445705006396	Copy packages
+1445705018774	Delete element
+1445705032962	Rename package 'nju.edu.express.adminui.copy'
+1445705041088	Rename package 'nju.edu.express.businesserui.copy'
+1445705045403	Rename package 'nju.edu.express.financeui.copy'
+1445705048856	Rename package 'nju.edu.express.logisticsui.copy'
+1445705052214	Rename package 'nju.edu.express.mainui.copy'
+1445705055608	Rename package 'nju.edu.express.managerui.copy'
+1445705059584	Rename package 'nju.edu.express.signinui.copy'
+1445705063043	Rename package 'nju.edu.express.transiterui.copy'
+1445705066334	Rename package 'nju.edu.express.uiutil.copy'
+1445705069640	Rename package 'nju.edu.express.warehouseui.copy'
+1445705094311	Rename package 'nju.edu.express.busines'
+1445705149066	Rename package 'nju.edu.express.warehouseui'
+1445705176661	Rename package 'nju.edu.express.warehousebl'
+1445705182374	Rename package 'adminbl'
+1445705454566	Delete element
+1445706860965	Delete element
+1445708216900	Rename type 'Logistics_main'
+1445710862019	Delete element

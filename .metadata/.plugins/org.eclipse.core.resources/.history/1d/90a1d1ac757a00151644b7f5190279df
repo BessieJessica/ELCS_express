@@ -1,0 +1,12 @@
+package nju.edu.express.logisticsui;
+
+public class Logistics_main {
+
+	/**
+	 * 根据订单号查询物流信息
+	 * @param orderID
+	 */
+	getLogistics(String orderID){
+		
+	}
+}

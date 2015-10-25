@@ -1,0 +1,10 @@
+package nju.edu.express.financeblservice;
+
+public class BusinessConBlService {
+
+	/**
+	 * 根据beginDate和endDate查询经营情况表
+	 */
+	public BusinessConVO getBusinessConChart(String beginDate, String endDate);
+	
+}

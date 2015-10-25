@@ -1,0 +1,9 @@
+package nju.edu.express.signinblservice;
+
+public interface SigninBlService {
+	
+	/**
+	 * 判断输入的用户名密码是否格式正确
+	 */
+	boolean isValid(String id,String password);
+}

@@ -1,0 +1,5 @@
+package nju.edu.express.logisticsdataservice;
+
+public interface LogisticsDataService {
+
+}

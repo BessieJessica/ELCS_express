@@ -1,0 +1,5 @@
+package nju.edu.express.managerblservice;
+
+public interface BusinessConDataService {
+
+}

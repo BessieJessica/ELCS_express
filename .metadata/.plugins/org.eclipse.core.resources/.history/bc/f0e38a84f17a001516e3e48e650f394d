@@ -1,0 +1,5 @@
+package nju.edu.express.financedataservice;
+
+public interface PaymentDataService {
+
+}

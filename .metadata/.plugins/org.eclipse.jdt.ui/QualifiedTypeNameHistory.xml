@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="nju.edu.express.VO.OrderVO"/>
+<fullyQualifiedTypeName name="nju.edu.express.VO.UserVO"/>
+<fullyQualifiedTypeName name="nju.edu.express.PO.LogisticsPO"/>
+</qualifiedTypeNameHistroy>

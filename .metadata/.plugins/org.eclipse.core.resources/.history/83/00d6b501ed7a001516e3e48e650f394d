@@ -1,0 +1,13 @@
+package nju.edu.express.transiterdataservice;
+
+import nju.edu.express.PO.DispatchPO;
+
+public interface DispatchDataService {
+
+	/**
+	 * 
+	 */
+	public DispatchPO[] getDispatchList(String TransitID);
+	
+	
+}

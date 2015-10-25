@@ -26,3 +26,9 @@
 1445745421788	Rename type 'UserVO'
 1445745425350	Rename type 'WareInVO'
 1445745428085	Rename type 'WareOutVO'
+1445759319013	Rename type 'DispatchDataServiec'
+1445762172550	Rename type 'AccountDataServic'
+1445762750371	Rename type 'SalaryDataServic'
+1445763681182	Move compilation units
+1445763688864	Delete element
+1445763697614	Move compilation unit

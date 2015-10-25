@@ -1,0 +1,13 @@
+package nju.edu.express.admindataservice;
+
+public interface UserDataService {
+
+	/**
+	 * 查找用户账户的多个持久化对象
+	 */
+	public UserPO[] getUserList();
+	
+	/**
+	 * 
+	 */
+}

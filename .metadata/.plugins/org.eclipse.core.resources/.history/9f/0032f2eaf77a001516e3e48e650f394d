@@ -1,0 +1,5 @@
+package nju.edu.express.admindataservice;
+
+public interface UserDataService {
+
+}

@@ -10,3 +10,7 @@
 1445792387722	Copy compilation unit
 1445792563336	Rename package 'nju.edu.express.signinbl.stub'
 1445792582030	Copy compilation unit
+1445836826324	Rename type 'InArrivalImpl'
+1445836831168	Rename type 'InTransImpl'
+1445836838472	Rename type 'OutTransImpl'
+1445836912361	Rename type 'DispatchBlService'

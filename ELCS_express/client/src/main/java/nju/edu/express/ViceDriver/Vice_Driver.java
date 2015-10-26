@@ -152,6 +152,8 @@ public class Vice_Driver {
 		System.out.println("------------收款单列表-----------");
 		System.out.println(balancevolist[0].getID());
 	}
+	
+	
 
 	
 	public static void main(String[] args){

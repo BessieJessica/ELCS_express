@@ -1,18 +1,40 @@
 package nju.edu.express.driver;
 
+import nju.edu.express.VO.BalanceVO;
 import nju.edu.express.VO.BusinessConVO;
+import nju.edu.express.VO.CarVO;
 import nju.edu.express.VO.ConstVO;
+import nju.edu.express.VO.DispatchVO;
+import nju.edu.express.VO.DistributeVO;
+import nju.edu.express.VO.DriverVO;
+import nju.edu.express.VO.InArrivalVO;
+import nju.edu.express.VO.InTransVO;
 import nju.edu.express.VO.LogisticsVO;
+import nju.edu.express.VO.OutArrivalVO;
+import nju.edu.express.VO.OutTransVO;
+import nju.edu.express.VO.PaymentVO;
 import nju.edu.express.VO.ProfitVO;
 import nju.edu.express.VO.SalaryVO;
 import nju.edu.express.VO.StuffVO;
+import nju.edu.express.businessbl.stub.CarBlImpl_stub;
+import nju.edu.express.businessbl.stub.DistributeBlImpl_stub;
+import nju.edu.express.businessbl.stub.DriverBlImpl_stub;
+import nju.edu.express.businessbl.stub.InArrivalBlImpl_stub;
+import nju.edu.express.businessbl.stub.InTransBlImpl_stub;
+import nju.edu.express.businesserblservice.CarBlService;
+import nju.edu.express.businesserblservice.DistributeBlService;
+import nju.edu.express.businesserblservice.DriverBlService;
+import nju.edu.express.businesserblservice.InArrivalBlService;
+import nju.edu.express.businesserblservice.InTransBlService;
 import nju.edu.express.financebl.stub.AccountBlImpl_stub;
 import nju.edu.express.financebl.stub.BalanceBlImpl_stub;
 import nju.edu.express.financebl.stub.BusinessConBlImpl_stub;
+import nju.edu.express.financebl.stub.PaymentBlImpl_stub;
 import nju.edu.express.financebl.stub.ProfitBlImpl_stub;
 import nju.edu.express.financeblservice.AccountBlService;
 import nju.edu.express.financeblservice.BalanceBlService;
 import nju.edu.express.financeblservice.BusinessConBlService;
+import nju.edu.express.financeblservice.PaymentBlService;
 import nju.edu.express.financeblservice.ProfitBlService;
 import nju.edu.express.logisticsbl.LogisticsBlImpl;
 import nju.edu.express.logisticsblservice.LogisticsBlService;
@@ -26,19 +48,25 @@ import nju.edu.express.managerblservice.SalaryBlService;
 import nju.edu.express.managerblservice.StuffBlService;
 import nju.edu.express.signinbl.stub.SigninBlImpl_stub;
 import nju.edu.express.signinblservice.SigninBlService;
+import nju.edu.express.transiterbl.stub.DispatchBlImpl_stub;
+import nju.edu.express.transiterbl.stub.OutArrivalBlImpl_stub;
+import nju.edu.express.transiterbl.stub.OutTransBlImpl_stub;
+import nju.edu.express.transiterblservice.DispatchBlService;
+import nju.edu.express.transiterblservice.OutArrivalBlService;
+import nju.edu.express.transiterblservice.OutTransBlService;
 
 public class Main_driver{	
 	
 	/**
-	 * 获得物流信息界面
+	 * 获得物流信息界面，这部分功能在图形界面实现！
 	 */
-	LogisticsBlService logistics;
+/*	LogisticsBlService logistics;
 	LogisticsVO logisticsVO;
 	
 	public void getLogistics(){
 		logistics = new LogisticsBlImpl();
 		logisticsVO = logistics.getLogistics("10000");
-	}
+	}*/
 	
 	
 	
@@ -171,6 +199,135 @@ public class Main_driver{
 	}
 	
 	
+	/**
+	 * 查看付款单
+	 */
+	PaymentBlService payment;
+	PaymentVO vo1;
+	
+	public void getPayment(){
+		payment = new PaymentBlImpl_stub();
+		vo1 = payment.getPayment("1");
+		System.out.println("----------查看收款单----------");
+		System.out.println("1号收款单金额:"+vo1.getCost());
+		
+	}
+	
+	
+	static String BusinessID;
+
+	DriverBlService driver;
+	DriverVO[] drivervolist;
+	
+	CarBlService car;
+	CarVO[] carvolist;
+	
+	nju.edu.express.businesserblservice.BalanceBlService balance1;
+	BalanceVO[] balancevolist;
+
+	DistributeBlService distribute;
+	DistributeVO[] distributevolist;
+	
+	InArrivalBlService inarrival;
+	InArrivalVO[] inarrivalvolist;
+	
+	InTransBlService intrans;
+	InTransVO[] intransvolist;
+	
+	DispatchBlService dispatch;
+	DispatchVO[] dispatchvolist;
+	
+	OutArrivalBlService outarrival;
+	OutArrivalVO[] outarrivalvolist;
+	
+	OutTransBlService outtrans;
+	OutTransVO[] outtransvolist;
+	/**
+	 * 获得中转中心装车单,有点小问题
+	 */
+//	public void getOutTransList(){
+//		outtrans=new OutTransBlImpl_stub();
+//		outtransvolist=outtrans.getOutTransList(BusinessID);
+//		System.out.println("-----------中转中心装车单列表--------------");
+//		System.out.println(outtransvolist[0].getId());
+//	}
+//	
+	/**
+	 * 获得中转中心到达单
+	 */
+	public void getOutArrivalList(){
+		outarrival=new OutArrivalBlImpl_stub();
+		outarrivalvolist=outarrival.getOutArrivalList("10000");
+		System.out.println("-----------中转中心到达单列表------------");
+		System.out.println(outarrivalvolist[0].getID());
+		
+	}
+	
+	
+	/**
+	 * 获得中转中心中转单
+	 */
+	public void getDispatchList(){
+		dispatch=new DispatchBlImpl_stub();
+		dispatchvolist=dispatch.getDispatchList("10000");
+		System.out.println("---------中转中心中转单--------------");
+		System.out.println(dispatchvolist[0].getID());
+	}
+	
+	/**
+	 * 获得营业厅装车单
+	 */
+	public void getInTransList(){
+		intrans=new InTransBlImpl_stub();
+		intransvolist=intrans.getInTransList("10000");
+		System.out.println("---------营业厅装车单列表--------------");
+		System.out.println(intransvolist[0].getID());
+	}
+	
+	/**
+	 * 获得营业厅到达单列表
+	 */
+	public void getInArrivalList(){
+		inarrival=new InArrivalBlImpl_stub();
+		inarrivalvolist=inarrival.getInArrivalList("10000");
+		System.out.println("-----------营业厅到达单列表------------");
+		System.out.println(inarrivalvolist[0].getID());
+	}
+	
+	/**
+	 * 获得收款单列表
+	 */
+	public void getDistributeList(){
+		distribute=new DistributeBlImpl_stub();
+		distributevolist=distribute.getDistributeList("1");
+		System.out.println("------------收款单列表----------");
+		System.out.println(distributevolist[0].getID());
+	}
+	
+	/**
+	 * 获得司机列表
+	 */
+	public void getDriverList(){
+		driver=new DriverBlImpl_stub();
+		drivervolist=driver.getDriverList("1");
+		System.out.println("---------------司机信息id-----------------");
+		System.out.println(drivervolist[0].getID());
+	}
+	
+	
+	/**
+	 * 获得车辆列表
+	 */
+	public void getCarList(){
+		car = new CarBlImpl_stub();
+		carvolist = car.getCarList("1");
+		System.out.println("---------------车辆信息id------------------");
+		System.out.println(carvolist[0].getID());
+		
+	}
+	
+	
+
 	
 	/**
 	 * 主函数运行驱动
@@ -178,7 +335,7 @@ public class Main_driver{
 	 */
 	public static void main(String[] args){
 		Main_driver driver = new Main_driver();
-		Logistics logistics = new Logistics();
+		LogisticsFrame_Test logistics = new LogisticsFrame_Test();
 		driver.signIn();
 		driver.addStuff();
 		driver.delDepartment();
@@ -187,5 +344,14 @@ public class Main_driver{
 		driver.delAccount();
 		driver.getBusinessCon();
 		driver.getProfitChart();
+		driver.getPayment();
+
+		driver.getCarList();
+		driver.getDriverList();
+		driver.getDistributeList();
+		driver.getDispatchList();
+		driver.getInArrivalList();
+		driver.getInTransList();
+		driver.getOutArrivalList();
 	}
 }

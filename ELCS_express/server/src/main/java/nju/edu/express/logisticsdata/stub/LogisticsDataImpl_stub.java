@@ -9,11 +9,10 @@ public class LogisticsDataImpl_stub implements LogisticsDataService {
 	public LogisticsPO getLogistics(String orderID) {
 		switch (orderID) {
 		case "10000":
-			logisticsPO = new LogisticsPO("10000", "南京南快递营业厅", "", "", "12345678");
+			logisticsPO = new LogisticsPO("10000", "南京南快递营业厅", "", "", "联系方式:12345678");
 			return logisticsPO;
 		default:
-			logisticsPO = new LogisticsPO("", "", "", "", "");
-			return logisticsPO;
+			return null;
 		}
 		
 	}

@@ -20,6 +20,7 @@ public class InTransBlImpl_stub implements InTransBlService {
 
 	public void transform(InTransPO[] intranspolist){
 		String id=intranspolist[0].getID();
+		intransvolist = new InTransVO[1];
 		intransvolist[0]=new InTransVO();
 		intransvolist[0].setID(id);
 	}

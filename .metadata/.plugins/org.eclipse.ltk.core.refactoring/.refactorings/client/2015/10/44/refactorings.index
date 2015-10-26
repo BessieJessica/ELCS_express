@@ -34,3 +34,5 @@
 1445862573168	Rename type 'BusinessConBlImpl'
 1445862577277	Rename type 'PaymentBlImpl'
 1445862581184	Rename type 'ProfitBlImpl'
+1445871029793	Rename type 'Logistics'
+1445872335143	Rename field 'logisticsVO'

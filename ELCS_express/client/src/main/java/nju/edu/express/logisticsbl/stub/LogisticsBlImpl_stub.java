@@ -15,8 +15,14 @@ public class LogisticsBlImpl_stub implements LogisticsBlService {
 	public LogisticsVO getLogistics(String orderID) {
 		logistics = new LogisticsDataImpl_stub();
 		logisticsPO = logistics.getLogistics(orderID);
-		transform(logisticsPO);
-		return logisticsVO;
+		if(logisticsPO==null)
+			return null;
+		else
+		{
+			transform(logisticsPO);
+			return logisticsVO;
+		}
+		
 	}
 	
 	private void transform(LogisticsPO po)

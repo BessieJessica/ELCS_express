@@ -23,8 +23,7 @@ public class BalanceBlImpl_stub implements BalanceBlService {
 	public void transform(BalancePO[] poList){
 		String id=poList[0].getID();
 		balancevolist=new BalanceVO[balancepolist.length];
-		balancevolist[0]=new BalanceVO();
-		balancevolist[0].setID(id);
+		balancevolist[0]=new BalanceVO(id);
 	}
 	public BalanceVO getBalance(String balanceID) {
 		// TODO Auto-generated method stub

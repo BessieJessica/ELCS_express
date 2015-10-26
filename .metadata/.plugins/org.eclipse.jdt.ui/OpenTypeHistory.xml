@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
-<typeInfo handle="=client/C:\/Java\/jre7\/lib\/rt.jar&lt;javax.swing(JFrame.class[JFrame" modifiers="33" timestamp="1421074913512"/>
-<typeInfo handle="=client/C:\/Java\/jre7\/lib\/rt.jar&lt;javax.swing(JPanel.class[JPanel" modifiers="33" timestamp="1421074913512"/>
+<typeInfo handle="=model/src\/main\/java&lt;nju.edu.express.logisticsblservice{LogisticsBlService.java[LogisticsBlService" modifiers="513" timestamp="1445779327255"/>
+<typeInfo handle="=model/src\/main\/java&lt;nju.edu.express.logisticsdataservice{LogisticsDataService.java[LogisticsDataService" modifiers="513" timestamp="1445778191314"/>
+<typeInfo handle="=model/src\/main\/java&lt;nju.edu.express.signinblservice{SigninBlService.java[SigninBlService" modifiers="513" timestamp="1445740964909"/>
+<typeInfo handle="=model/src\/main\/java&lt;nju.edu.express.admindataservice{UserDataService.java[UserDataService" modifiers="513" timestamp="1445778191205"/>
 </typeInfoHistroy>

@@ -1,0 +1,9 @@
+package nju.edu.express.PO;
+
+public class LogisticsPO {
+
+	String orderID;
+	String businessID;
+	String expresser;
+	String contact;
+}

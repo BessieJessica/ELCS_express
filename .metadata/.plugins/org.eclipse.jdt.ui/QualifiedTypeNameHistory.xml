@@ -2,5 +2,12 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="nju.edu.express.VO.OrderVO"/>
 <fullyQualifiedTypeName name="nju.edu.express.VO.UserVO"/>
+<fullyQualifiedTypeName name="nju.edu.express.expressblservice.ExpressBlService"/>
+<fullyQualifiedTypeName name="nju.edu.express.logisticsdata.stub.LogisticsDataImpl"/>
 <fullyQualifiedTypeName name="nju.edu.express.PO.LogisticsPO"/>
+<fullyQualifiedTypeName name="nju.edu.express.VO.LogisticsVO"/>
+<fullyQualifiedTypeName name="nju.edu.express.logisticsbl.stub.LogisticsBlImpl"/>
+<fullyQualifiedTypeName name="javax.swing.JTextArea"/>
+<fullyQualifiedTypeName name="javax.swing.JLabel"/>
+<fullyQualifiedTypeName name="nju.edu.express.signinbl.stub.SigninBlImpl"/>
 </qualifiedTypeNameHistroy>

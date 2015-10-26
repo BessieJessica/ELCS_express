@@ -7,5 +7,5 @@ public interface LogisticsBlService {
 	/**
 	 * 根据订单号查询物流信息
 	 */
-	public LogisticsVO[] getLogistics(String orderID);
+	public LogisticsVO getLogistics(String orderID);
 }

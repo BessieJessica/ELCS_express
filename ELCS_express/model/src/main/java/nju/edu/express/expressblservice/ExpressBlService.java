@@ -10,6 +10,11 @@ public interface ExpressBlService {
 	public OrderVO[] getOrderList(String expressID);
 	
 	/**
+	 * 提供给仓库的查询方法，根据仓库记录的订单ID查询订单列表
+	 */
+	public OrderVO[] getOrderList(String[] orderID);
+	
+	/**
 	 * 根据orderID查看订单信息
 	 */
 	public OrderVO getOrder(String orderID);

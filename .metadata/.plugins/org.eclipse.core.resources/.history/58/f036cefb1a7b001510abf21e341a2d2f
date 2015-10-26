@@ -1,0 +1,18 @@
+package nju.edu.express.logisticsdata.stub;
+
+import nju.edu.express.PO.LogisticsPO;
+import nju.edu.express.logisticsdataservice.LogisticsDataService;
+
+public class LogisticsDataImpl implements LogisticsDataService {
+
+	public LogisticsPO getLogistics(String orderID) {
+		
+		return null;
+	}
+
+	public void insertLogistics(LogisticsPO po) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,24 @@
+package nju.edu.express.logisticsbl.stub;
+
+import nju.edu.express.PO.LogisticsPO;
+import nju.edu.express.VO.LogisticsVO;
+import nju.edu.express.logisticsblservice.LogisticsBlService;
+import nju.edu.express.logisticsdata.stub.LogisticsDataImpl;
+import nju.edu.express.logisticsdataservice.LogisticsDataService;
+
+public class LogisticsBlImpl implements LogisticsBlService {
+
+	LogisticsDataService logistics;
+	LogisticsPO logisticsPO;
+	LogisticsVO logisticsVO;
+	
+	public LogisticsVO getLogistics(String orderID) {
+		logistics = new LogisticsDataImpl();
+		logisticsPO = logistics.getLogistics(orderID);
+		
+		return null;
+	}
+	
+	private void 
+
+}

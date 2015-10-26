@@ -1,0 +1,17 @@
+package nju.edu.express.managerdataservice;
+
+import nju.edu.express.PO.stub.ConstPO;
+
+public interface ConstDataService {
+
+	/**
+	 * 获得常量列表
+	 */
+	public ConstPO[] getConstList();
+	
+	/**
+	 * 更新ConstPO
+	 */
+	public void updateConst(ConstPO[] po);
+	
+}

@@ -12,5 +12,5 @@ public interface ConstBlService {
 	/**
 	 * 更新常量信息
 	 */
-	public void endConst(ConstVO vo);
+	public void endConst(ConstVO[] vo);
 }

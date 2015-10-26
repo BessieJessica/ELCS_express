@@ -1,0 +1,18 @@
+package nju.edu.express.driver;
+
+import java.awt.Image;
+
+import javax.swing.ImageIcon;
+import javax.swing.JFrame;
+
+public class MainFrame extends JFrame {
+
+	static Image logoImage = new ImageIcon("ELCS.png").getImage();
+	static Image backGroundImage = new ImageIcon("NANJING.png").getImage();
+	static Image loginImage = new ImageIcon("login.png").getImage();
+	static Image logoutImage = new ImageIcon("logout.png").getImage();
+	static Image confirmImage = new ImageIcon("confirm.png").getImage();
+	static Image mouseOnConfirmImage = new ImageIcon("MouseOnConfirm.png").getImage();
+	
+	
+}

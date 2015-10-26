@@ -3,7 +3,7 @@ package nju.edu.express.logisticsbl;
 import nju.edu.express.PO.LogisticsPO;
 import nju.edu.express.VO.LogisticsVO;
 import nju.edu.express.logisticsblservice.LogisticsBlService;
-import nju.edu.express.logisticsdata.stub.LogisticsDataImpl;
+import nju.edu.express.logisticsdata.stub.LogisticsDataImpl_stub;
 import nju.edu.express.logisticsdataservice.LogisticsDataService;
 
 public class LogisticsBlImpl implements LogisticsBlService {
@@ -13,7 +13,7 @@ public class LogisticsBlImpl implements LogisticsBlService {
 	LogisticsVO logisticsVO;
 	
 	public LogisticsVO getLogistics(String orderID) {
-		logistics = new LogisticsDataImpl();
+		logistics = new LogisticsDataImpl_stub();
 		logisticsPO = logistics.getLogistics(orderID);
 		transform(logisticsPO);
 		return logisticsVO;

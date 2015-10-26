@@ -2383,3 +2383,1182 @@
 2015-10-26 13:39:19,498 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
 2015-10-26 13:39:19,498 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2015-10-26 13:39:19,498 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 16:28:22,084 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:28:22,100 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\main\resources
+2015-10-26 16:28:22,100 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:28:22,100 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\test\resources
+2015-10-26 16:28:22,326 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:28:22,326 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 16:28:22,326 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:28:22,326 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 16:28:23,201 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:28:23,201 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 16:28:23,201 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:28:23,201 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 16:28:27,982 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:28:27,982 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 16:28:27,982 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:28:27,982 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 16:30:38,731 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:30:38,731 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 16:30:38,731 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:30:38,731 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 16:30:43,731 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:30:43,731 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 16:30:43,731 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:30:43,731 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 16:30:51,629 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:30:51,629 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 16:30:51,629 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:30:51,629 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 16:31:45,302 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:31:45,302 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 16:31:45,302 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:31:45,302 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 16:31:45,333 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:31:45,333 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 16:31:45,333 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:31:45,333 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 16:31:51,060 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:31:51,060 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 16:31:51,060 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:31:51,060 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 16:32:37,734 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:32:37,734 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 16:32:37,734 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:32:37,734 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 16:33:17,688 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:33:17,688 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 16:33:17,704 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:33:17,704 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 16:36:04,383 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:36:04,383 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 16:36:04,383 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:36:04,383 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 16:41:00,036 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:41:00,036 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\main\resources
+2015-10-26 16:41:00,036 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:41:00,036 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\test\resources
+2015-10-26 16:43:03,075 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:43:03,075 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 16:43:03,075 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:43:03,075 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 16:43:05,325 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:43:05,325 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 16:43:05,325 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:43:05,325 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 16:44:31,404 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:44:31,404 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 16:44:31,404 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:44:31,404 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 16:44:50,661 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:44:50,661 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 16:44:50,678 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:44:50,678 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 16:45:19,533 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:45:19,533 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 16:45:19,533 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:45:19,533 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 16:47:09,043 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:47:09,043 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 16:47:09,043 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:47:09,043 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 16:47:21,036 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:47:21,036 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 16:47:21,036 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:47:21,036 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 16:47:27,239 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:47:27,239 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 16:47:27,239 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:47:27,239 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 16:47:40,677 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:47:40,677 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 16:47:40,677 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:47:40,677 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 16:48:06,193 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:48:06,193 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 16:48:06,193 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:48:06,193 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 16:48:27,514 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:48:27,514 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 16:48:27,514 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:48:27,514 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 16:48:43,304 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:48:43,304 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 16:48:43,304 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:48:43,304 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 16:48:57,429 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:48:57,429 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 16:48:57,429 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:48:57,429 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 16:49:11,249 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:49:11,249 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 16:49:11,249 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:49:11,249 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 16:49:13,281 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:49:13,281 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 16:49:13,281 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:49:13,281 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 16:49:29,616 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:49:29,616 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 16:49:29,616 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:49:29,616 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 16:50:22,462 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:50:22,462 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 16:50:22,477 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:50:22,477 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 16:50:37,706 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:50:37,706 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 16:50:37,706 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:50:37,706 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 16:50:50,699 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:50:50,699 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 16:50:50,699 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:50:50,699 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 16:50:53,840 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:50:53,840 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 16:50:53,840 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:50:53,840 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 16:51:42,607 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:51:42,607 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 16:51:42,607 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:51:42,607 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 16:52:17,829 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:52:17,829 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\main\resources
+2015-10-26 16:52:17,829 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:52:17,829 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\test\resources
+2015-10-26 16:52:37,774 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:52:37,774 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\main\resources
+2015-10-26 16:52:37,774 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:52:37,774 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\test\resources
+2015-10-26 16:52:48,301 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:52:48,301 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\main\resources
+2015-10-26 16:52:48,301 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:52:48,301 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\test\resources
+2015-10-26 16:53:34,694 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:53:34,694 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 16:53:34,710 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:53:34,710 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 16:54:05,938 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:54:05,938 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 16:54:05,938 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:54:05,938 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 16:54:13,638 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:54:13,638 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 16:54:13,638 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:54:13,638 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 16:54:29,607 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:54:29,607 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\main\resources
+2015-10-26 16:54:29,607 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:54:29,607 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\test\resources
+2015-10-26 16:54:56,562 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:54:56,562 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\main\resources
+2015-10-26 16:54:56,562 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:54:56,562 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\test\resources
+2015-10-26 16:56:01,167 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:56:01,167 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 16:56:01,167 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:56:01,167 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 16:56:08,401 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:56:08,401 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 16:56:08,401 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:56:08,401 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 16:56:08,433 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:56:08,433 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 16:56:08,433 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:56:08,433 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 16:56:16,895 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:56:16,895 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 16:56:16,895 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:56:16,895 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 16:56:29,020 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:56:29,020 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 16:56:29,036 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:56:29,036 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 16:56:35,764 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:56:35,764 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 16:56:35,764 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:56:35,764 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 16:57:06,485 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:57:06,485 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 16:57:06,485 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:57:06,485 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 16:57:46,690 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:57:46,690 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 16:57:46,690 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:57:46,690 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 16:57:57,221 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:57:57,221 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 16:57:57,221 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:57:57,221 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 16:59:00,357 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:59:00,357 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 16:59:00,372 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:59:00,372 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 16:59:15,412 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:59:15,412 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 16:59:15,412 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:59:15,412 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 16:59:23,734 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:59:23,734 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 16:59:23,734 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:59:23,734 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 16:59:35,844 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:59:35,844 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 16:59:35,844 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:59:35,844 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 16:59:48,509 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:59:48,509 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 16:59:48,509 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 16:59:48,509 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 17:00:27,979 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:00:27,979 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 17:00:27,979 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:00:27,979 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 17:03:08,246 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Pioneer:client:0.0.1-SNAPSHOT @ C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\pom.xml.
+2015-10-26 17:03:08,386 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:03:08,386 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 17:03:08,402 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:03:08,403 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 17:09:23,799 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:09:23,799 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 17:09:23,799 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:09:23,799 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 17:09:47,479 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:09:47,494 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 17:09:47,494 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:09:47,494 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 17:10:12,941 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:10:12,941 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 17:10:12,941 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:10:12,941 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 17:10:34,623 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:10:34,623 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 17:10:34,623 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:10:34,623 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 17:11:24,486 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:11:24,486 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 17:11:24,486 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:11:24,486 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 17:11:39,838 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:11:39,838 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 17:11:39,838 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:11:39,853 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 17:11:42,322 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:11:42,322 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 17:11:42,322 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:11:42,322 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 17:18:57,153 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:18:57,153 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\main\resources
+2015-10-26 17:18:57,153 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:18:57,153 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\test\resources
+2015-10-26 17:18:57,169 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:18:57,169 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 17:18:57,169 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:18:57,169 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 17:19:04,427 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:19:04,427 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 17:19:04,443 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:19:04,443 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 17:19:41,237 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:19:41,237 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 17:19:41,237 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:19:41,237 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 17:20:15,771 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:20:15,771 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 17:20:15,771 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:20:15,771 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 17:20:30,281 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:20:30,281 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 17:20:30,281 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:20:30,281 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 17:20:38,359 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:20:38,359 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 17:20:38,359 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:20:38,359 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 17:21:23,962 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:21:23,962 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 17:21:23,962 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:21:23,962 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 17:23:50,131 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:23:50,131 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 17:23:50,131 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:23:50,131 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 17:24:10,952 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:24:10,952 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 17:24:10,952 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:24:10,952 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 17:24:34,632 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\÷Ï∑Â\ELCS_express\ELCS_express
+2015-10-26 17:24:34,632 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-10-26 17:24:43,402 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:24:43,402 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\main\resources
+2015-10-26 17:24:43,402 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:24:43,417 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\test\resources
+2015-10-26 17:24:43,417 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:24:43,417 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 17:24:43,417 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:24:43,417 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 17:26:51,105 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:26:51,105 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 17:26:51,105 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:26:51,105 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 17:34:09,948 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:34:09,948 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 17:34:09,948 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:34:09,948 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 17:34:42,210 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:34:42,210 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 17:34:42,210 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:34:42,210 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 17:38:46,505 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:38:46,505 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\main\resources
+2015-10-26 17:38:46,505 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:38:46,505 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\test\resources
+2015-10-26 17:39:49,594 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:39:49,594 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 17:39:49,594 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:39:49,594 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 17:40:52,561 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:40:52,561 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\main\resources
+2015-10-26 17:40:52,561 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:40:52,561 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\test\resources
+2015-10-26 17:40:52,592 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:40:52,592 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 17:40:52,592 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:40:52,592 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 17:40:57,343 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:40:57,343 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 17:40:57,343 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:40:57,343 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 17:41:13,429 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:41:13,429 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 17:41:13,429 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:41:13,429 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 17:42:10,863 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:42:10,863 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 17:42:10,863 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:42:10,863 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 17:42:21,941 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:42:21,941 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 17:42:21,941 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:42:21,941 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 17:42:42,482 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:42:42,482 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 17:42:42,482 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:42:42,482 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 17:45:17,692 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:45:17,692 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\main\resources
+2015-10-26 17:45:17,692 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:45:17,692 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\test\resources
+2015-10-26 17:46:55,813 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:46:55,813 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 17:46:55,813 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:46:55,813 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 17:48:45,471 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:48:45,471 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 17:48:45,471 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:48:45,471 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 17:49:05,401 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:49:05,401 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 17:49:05,401 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:49:05,401 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 17:50:08,319 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:50:08,319 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 17:50:08,319 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:50:08,319 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 17:50:29,219 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:50:29,219 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 17:50:29,219 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:50:29,219 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 17:50:31,359 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:50:31,359 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 17:50:31,359 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:50:31,359 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 17:50:38,438 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:50:38,438 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 17:50:38,438 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:50:38,438 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 17:50:52,977 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:50:52,977 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 17:50:52,977 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:50:52,977 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 17:51:29,073 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:51:29,073 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 17:51:29,073 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:51:29,073 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 17:56:05,633 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:56:05,633 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 17:56:05,633 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:56:05,633 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 17:56:21,892 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:56:21,892 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 17:56:21,892 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:56:21,892 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 17:57:40,147 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:57:40,147 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 17:57:40,147 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:57:40,147 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 17:57:59,061 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:57:59,061 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 17:57:59,061 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:57:59,061 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 17:58:13,617 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:58:13,617 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\main\resources
+2015-10-26 17:58:13,617 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 17:58:13,617 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\test\resources
+2015-10-26 19:05:44,538 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:05:44,538 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:05:44,538 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:05:44,538 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:06:01,945 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:06:01,945 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:06:01,945 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:06:01,945 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:07:23,120 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:07:23,120 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:07:23,120 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:07:23,120 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:08:23,567 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:08:23,567 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:08:23,567 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:08:23,567 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:08:25,754 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:08:25,754 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:08:25,754 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:08:25,770 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:09:19,020 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:09:19,020 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:09:19,036 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:09:19,036 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:09:26,286 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:09:26,286 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:09:26,286 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:09:26,286 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:11:17,218 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:11:17,218 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:11:17,233 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:11:17,233 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:11:20,968 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:11:20,968 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:11:20,968 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:11:20,968 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:11:23,624 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:11:23,624 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:11:23,624 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:11:23,624 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:11:37,140 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:11:37,140 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:11:37,140 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:11:37,140 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:11:42,030 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:11:42,030 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:11:42,030 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:11:42,030 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:16:01,831 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:16:01,831 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:16:01,831 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:16:01,831 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:16:27,167 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:16:27,167 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:16:27,167 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:16:27,167 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:16:32,136 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:16:32,136 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:16:32,136 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:16:32,136 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:16:34,917 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:16:34,917 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:16:34,917 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:16:34,917 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:16:37,621 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:16:37,621 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:16:37,621 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:16:37,621 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:16:58,285 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:16:58,285 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:16:58,285 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:16:58,285 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:18:50,624 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:18:50,624 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:18:50,624 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:18:50,624 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:20:15,880 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:20:15,880 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:20:15,880 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:20:15,880 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:20:32,936 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:20:32,936 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:20:32,936 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:20:32,936 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:20:44,483 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:20:44,483 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:20:44,483 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:20:44,483 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:21:10,827 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:21:10,827 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:21:10,827 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:21:10,827 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:23:28,284 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:23:28,284 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:23:28,300 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:23:28,300 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:25:12,231 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:25:12,231 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:25:12,231 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:25:12,231 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:25:17,794 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:25:17,794 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:25:17,794 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:25:17,794 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:25:22,414 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:25:22,414 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:25:22,414 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:25:22,414 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:25:55,133 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:25:55,133 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:25:55,133 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:25:55,133 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:26:00,149 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:26:00,149 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:26:00,149 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:26:00,149 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:27:01,878 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:27:01,878 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:27:01,878 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:27:01,878 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:27:09,269 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:27:09,269 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:27:09,269 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:27:09,269 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:27:29,307 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:27:29,307 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:27:29,307 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:27:29,307 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:28:58,224 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:28:58,224 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:28:58,224 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:28:58,224 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:29:50,649 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:29:50,649 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:29:50,649 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:29:50,649 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:30:18,994 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:30:18,994 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:30:18,994 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:30:18,994 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:31:12,796 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:31:12,796 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:31:12,796 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:31:12,796 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:31:14,280 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:31:14,280 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:31:14,280 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:31:14,280 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:31:22,452 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:31:22,452 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:31:22,452 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:31:22,452 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:31:25,759 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:31:25,759 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:31:25,775 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:31:25,775 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:32:50,971 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:32:50,971 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:32:50,971 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:32:50,971 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:34:09,238 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:34:09,254 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:34:09,254 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:34:09,254 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:34:26,317 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:34:26,317 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:34:26,317 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:34:26,317 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:34:31,036 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:34:31,036 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:34:31,036 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:34:31,036 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:34:43,333 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:34:43,333 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:34:43,348 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:34:43,348 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:34:48,983 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:34:48,983 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:34:48,983 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:34:48,983 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:35:02,092 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:35:02,092 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:35:02,092 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:35:02,092 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:35:28,422 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:35:28,422 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:35:28,422 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:35:28,422 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:35:44,860 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:35:44,860 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:35:44,860 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:35:44,860 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:36:48,623 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:36:48,623 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:36:48,639 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:36:48,639 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:48:21,710 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:48:21,710 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:48:21,712 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:48:21,712 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:49:10,176 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:49:10,177 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:49:10,178 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:49:10,179 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:51:03,862 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:51:03,863 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:51:03,865 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:51:03,865 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:56:07,672 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:56:07,672 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:56:07,674 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:56:07,674 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:56:57,722 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:56:57,722 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:56:57,725 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:56:57,726 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:57:17,512 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:57:17,512 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:57:17,514 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:57:17,514 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:57:59,806 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:57:59,806 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:57:59,808 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:57:59,808 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 19:58:26,202 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:58:26,202 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 19:58:26,205 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 19:58:26,205 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:00:01,171 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:00:01,172 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:00:01,173 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:00:01,173 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:03:53,576 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:03:53,576 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:03:53,576 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:03:53,576 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:04:53,718 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:04:53,718 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:04:53,718 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:04:53,718 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:05:26,898 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:05:26,898 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:05:26,913 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:05:26,913 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:05:48,601 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:05:48,601 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:05:48,601 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:05:48,601 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:06:02,633 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:06:02,633 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:06:02,633 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:06:02,633 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:06:13,932 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:06:13,932 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:06:13,932 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:06:13,932 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:06:23,917 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:06:23,917 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:06:23,917 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:06:23,917 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:06:24,948 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:06:24,948 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:06:24,948 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:06:24,948 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:06:42,964 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:06:42,964 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:06:42,964 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:06:42,964 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:06:44,058 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:06:44,073 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:06:44,073 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:06:44,073 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:07:15,011 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:07:15,011 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:07:15,011 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:07:15,011 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:07:51,996 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:07:51,996 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:07:52,012 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:07:52,012 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:08:41,895 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:08:41,895 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\main\resources
+2015-10-26 20:08:41,895 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:08:41,895 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\test\resources
+2015-10-26 20:08:54,754 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:08:54,754 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\main\resources
+2015-10-26 20:08:54,754 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:08:54,754 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\test\resources
+2015-10-26 20:09:08,395 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:09:08,395 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:09:08,395 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:09:08,395 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:09:30,473 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:09:30,473 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:09:30,473 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:09:30,473 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:10:41,896 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:10:41,896 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\main\resources
+2015-10-26 20:10:41,896 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:10:41,896 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\test\resources
+2015-10-26 20:10:44,474 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:10:44,474 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 20:10:44,474 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:10:44,474 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 20:11:24,624 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:11:24,624 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 20:11:24,624 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:11:24,624 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 20:11:34,562 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:11:34,562 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 20:11:34,577 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:11:34,577 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 20:11:52,249 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:11:52,249 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:11:52,249 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:11:52,249 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:12:07,093 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:12:07,093 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:12:07,093 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:12:07,093 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:12:44,719 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:12:44,719 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:12:44,719 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:12:44,719 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:12:55,032 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:12:55,032 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:12:55,032 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:12:55,032 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:13:01,235 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:13:01,235 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:13:01,235 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:13:01,235 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:22:24,520 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:22:24,520 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:22:24,520 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:22:24,520 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:22:47,599 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:22:47,599 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:22:47,599 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:22:47,599 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:23:04,036 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:23:04,036 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:23:04,052 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:23:04,052 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:24:20,532 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:24:20,532 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:24:20,532 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:24:20,532 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:24:45,080 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:24:45,080 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:24:45,080 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:24:45,080 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:24:56,752 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:24:56,752 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:24:56,752 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:24:56,752 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:25:09,705 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:25:09,705 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:25:09,705 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:25:09,705 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:25:12,627 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:25:12,627 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:25:12,627 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:25:12,627 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:25:21,752 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:25:21,752 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:25:21,752 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:25:21,752 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:25:23,814 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:25:23,814 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:25:23,814 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:25:23,814 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:25:31,471 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:25:31,471 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:25:31,471 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:25:31,471 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:25:33,611 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:25:33,611 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:25:33,611 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:25:33,611 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:25:36,408 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:25:36,408 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:25:36,408 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:25:36,408 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:29:06,326 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:29:06,326 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:29:06,326 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:29:06,326 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:29:14,045 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:29:14,045 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:29:14,045 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:29:14,045 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:29:21,701 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:29:21,701 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:29:21,701 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:29:21,701 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:29:25,199 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:29:25,199 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:29:25,199 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:29:25,199 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:29:29,449 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:29:29,449 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:29:29,449 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:29:29,449 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:29:33,308 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:29:33,308 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:29:33,308 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:29:33,308 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:29:37,418 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:29:37,418 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:29:37,418 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:29:37,418 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:29:41,309 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:29:41,309 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:29:41,309 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:29:41,309 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:30:47,075 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:30:47,075 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:30:47,091 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:30:47,091 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:30:52,434 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:30:52,434 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:30:52,434 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:30:52,434 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:30:56,544 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:30:56,544 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:30:56,544 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:30:56,544 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:31:00,981 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:31:00,981 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:31:00,981 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:31:00,981 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:31:06,278 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:31:06,278 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:31:06,278 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:31:06,278 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:31:14,232 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:31:14,232 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:31:14,232 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:31:14,232 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:31:23,466 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:31:23,466 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:31:23,466 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:31:23,466 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:31:27,669 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:31:27,669 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:31:27,669 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:31:27,669 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:32:17,607 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:32:17,607 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:32:17,607 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:32:17,607 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:32:31,162 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:32:31,162 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:32:31,177 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:32:31,177 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:33:18,913 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:33:18,913 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:33:18,914 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:33:18,914 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:33:22,695 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:33:22,696 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:33:22,697 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:33:22,697 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:33:32,849 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:33:32,849 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:33:32,851 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:33:32,851 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:33:52,536 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:33:52,536 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:33:52,538 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:33:52,539 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:34:37,048 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:34:37,048 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 20:34:37,050 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:34:37,050 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 20:34:43,122 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:34:43,123 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 20:34:43,124 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:34:43,125 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 20:34:48,206 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:34:48,207 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 20:34:48,208 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:34:48,208 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 20:34:57,238 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:34:57,240 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 20:34:57,243 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:34:57,243 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 20:35:00,072 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:35:00,072 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 20:35:00,074 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:35:00,074 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 20:35:06,548 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:35:06,548 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 20:35:06,550 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:35:06,551 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 20:36:02,213 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:36:02,213 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:36:02,215 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:36:02,215 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:36:11,382 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:36:11,382 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:36:11,384 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:36:11,384 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:36:31,844 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:36:31,844 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\main\resources
+2015-10-26 20:36:31,845 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:36:31,845 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\test\resources
+2015-10-26 20:36:31,861 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:36:31,861 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 20:36:31,862 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:36:31,863 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 20:36:31,881 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:36:31,881 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:36:31,882 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:36:31,882 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:36:45,151 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:36:45,151 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 20:36:45,152 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:36:45,152 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 20:37:29,563 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:37:29,563 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 20:37:29,564 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:37:29,565 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 20:37:47,577 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:37:47,577 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:37:47,579 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:37:47,579 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:38:01,430 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:38:01,430 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 20:38:01,432 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:38:01,433 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 20:38:23,168 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:38:23,169 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:38:23,170 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:38:23,170 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:41:34,337 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:41:34,337 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:41:34,337 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:41:34,337 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:45:25,909 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:45:25,909 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:45:25,909 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:45:25,909 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:45:52,550 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:45:52,550 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:45:52,550 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:45:52,550 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:46:07,504 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:46:07,504 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:46:07,504 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:46:07,504 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:47:57,200 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:47:57,200 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:47:57,200 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:47:57,200 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:48:21,138 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:48:21,138 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:48:21,138 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:48:21,138 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:48:35,701 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:48:35,701 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:48:35,701 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:48:35,701 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:48:37,810 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:48:37,810 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:48:37,810 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:48:37,810 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:48:43,935 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:48:43,935 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:48:43,935 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:48:43,935 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:48:58,045 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:48:58,045 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 20:48:58,045 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:48:58,045 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 20:50:42,820 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:50:42,820 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\main\resources
+2015-10-26 20:50:42,820 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:50:42,820 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\test\resources
+2015-10-26 20:50:42,883 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:50:42,883 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 20:50:42,883 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:50:42,883 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 20:50:46,351 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:50:46,351 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\main\resources
+2015-10-26 20:50:46,351 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:50:46,351 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\test\resources
+2015-10-26 20:51:08,633 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:51:08,633 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\main\resources
+2015-10-26 20:51:08,633 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:51:08,633 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\test\resources
+2015-10-26 20:51:08,649 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:51:08,649 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 20:51:08,649 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:51:08,649 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 20:56:14,175 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:56:14,175 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 20:56:14,190 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:56:14,190 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 20:59:37,678 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:59:37,679 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 20:59:37,680 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 20:59:37,681 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 21:00:14,952 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:00:14,952 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 21:00:14,953 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:00:14,954 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 21:03:13,949 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:03:13,949 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\main\resources
+2015-10-26 21:03:13,951 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:03:13,951 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\test\resources
+2015-10-26 21:03:16,106 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:03:16,106 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\main\resources
+2015-10-26 21:03:16,108 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:03:16,108 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\test\resources
+2015-10-26 21:03:23,781 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:03:23,781 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\main\resources
+2015-10-26 21:03:23,782 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:03:23,782 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\test\resources
+2015-10-26 21:04:03,961 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:04:03,961 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 21:04:03,962 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:04:03,962 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 21:04:25,219 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:04:25,219 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\main\resources
+2015-10-26 21:04:25,221 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:04:25,221 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\test\resources
+2015-10-26 21:04:43,881 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:04:43,881 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\main\resources
+2015-10-26 21:04:43,882 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:04:43,882 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\test\resources
+2015-10-26 21:05:17,110 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:05:17,111 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 21:05:17,113 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:05:17,113 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 21:05:19,768 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:05:19,768 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 21:05:19,769 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:05:19,769 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 21:05:25,586 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:05:25,587 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 21:05:25,588 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:05:25,589 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 21:05:34,123 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:05:34,123 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 21:05:34,126 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:05:34,126 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 21:06:31,430 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:06:31,430 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\main\resources
+2015-10-26 21:06:31,432 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:06:31,432 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\test\resources
+2015-10-26 21:06:44,277 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:06:44,277 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\main\resources
+2015-10-26 21:06:44,278 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:06:44,278 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\test\resources
+2015-10-26 21:09:05,071 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:09:05,072 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 21:09:05,073 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:09:05,073 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 21:09:09,927 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:09:09,927 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 21:09:09,928 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:09:09,929 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 21:11:07,043 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:11:07,044 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 21:11:07,045 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:11:07,045 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 21:12:04,771 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:12:04,771 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 21:12:04,773 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:12:04,773 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 21:12:44,583 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:12:44,584 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 21:12:44,585 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:12:44,585 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 21:14:18,485 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:14:18,485 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 21:14:18,487 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:14:18,487 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 21:14:21,513 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:14:21,514 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 21:14:21,515 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:14:21,516 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 21:15:45,071 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:15:45,071 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 21:15:45,073 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:15:45,073 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 21:17:24,880 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:17:24,881 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 21:17:24,882 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:17:24,882 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 21:17:41,749 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:17:41,749 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 21:17:41,750 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:17:41,751 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 21:17:58,035 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:17:58,036 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 21:17:58,037 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:17:58,037 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 21:18:00,816 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:18:00,816 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 21:18:00,817 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:18:00,817 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 21:18:18,199 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:18:18,199 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 21:18:18,201 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:18:18,201 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 21:18:21,178 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:18:21,178 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 21:18:21,179 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:18:21,179 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 21:19:05,139 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:19:05,139 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 21:19:05,140 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:19:05,140 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 21:19:06,328 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:19:06,329 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 21:19:06,330 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:19:06,330 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 21:20:41,302 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:20:41,303 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\main\resources
+2015-10-26 21:20:41,304 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:20:41,304 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\test\resources
+2015-10-26 21:21:01,129 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:21:01,129 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\main\resources
+2015-10-26 21:21:01,131 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:21:01,131 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\server\src\test\resources
+2015-10-26 21:21:22,307 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:21:22,308 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 21:21:22,309 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:21:22,309 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 21:22:48,355 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:22:48,356 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\main\resources
+2015-10-26 21:22:48,357 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:22:48,357 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\test\resources
+2015-10-26 21:22:59,696 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:22:59,697 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\main\resources
+2015-10-26 21:22:59,698 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:22:59,698 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\model\src\test\resources
+2015-10-26 21:23:26,128 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:23:26,128 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 21:23:26,129 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:23:26,129 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 21:23:53,060 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:23:53,061 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 21:23:53,062 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:23:53,062 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 21:24:43,457 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:24:43,457 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 21:24:43,459 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:24:43,459 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources
+2015-10-26 21:24:50,938 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:24:50,939 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\main\resources
+2015-10-26 21:24:50,940 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 21:24:50,940 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\÷Ï∑Â\ELCS_express\ELCS_express\client\src\test\resources

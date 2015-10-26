@@ -1,0 +1,119 @@
+package nju.edu.express.driver;
+
+import javax.swing.JPanel;
+
+import nju.edu.express.VO.ConstVO;
+import nju.edu.express.VO.LogisticsVO;
+import nju.edu.express.VO.SalaryVO;
+import nju.edu.express.VO.StuffVO;
+import nju.edu.express.logisticsbl.LogisticsBlImpl;
+import nju.edu.express.logisticsblservice.LogisticsBlService;
+import nju.edu.express.managerbl.stub.ConstBlImpl_stub;
+import nju.edu.express.managerbl.stub.DepartmentBlImpl_stub;
+import nju.edu.express.managerbl.stub.SalaryBlImpl_stub;
+import nju.edu.express.managerbl.stub.StuffBlImpl_stub;
+import nju.edu.express.managerblservice.ConstBlService;
+import nju.edu.express.managerblservice.DepartmentBlService;
+import nju.edu.express.managerblservice.SalaryBlService;
+import nju.edu.express.managerblservice.StuffBlService;
+import nju.edu.express.signinbl.stub.SigninBlImpl_stub;
+import nju.edu.express.signinblservice.SigninBlService;
+
+public class Main_driver extends JPanel {
+
+	LogisticsBlService logistics;
+	LogisticsVO logisticsVO;
+	
+	SigninBlService signin;
+	
+	StuffBlService stuff;
+	StuffVO stuffVO; 
+	
+	DepartmentBlService department;
+	String[] departmentID;
+	
+	ConstBlService Const;
+	ConstVO[] constVO;
+	
+	SalaryBlService salary;
+	SalaryVO salaryVO;
+	
+	
+	/**
+	 * 获得物流信息界面
+	 */
+	public void getLogistics(){
+		logistics = new LogisticsBlImpl();
+		logisticsVO = logistics.getLogistics("10000");
+	}
+	
+	
+	/**
+	 * 登录
+	 */
+	public void signIn(){
+		boolean correctness;
+		signin = new SigninBlImpl_stub();
+		correctness = signin.isCorrect("alan", "11111");
+		
+		System.out.println("----------登录功能----------");
+		System.out.println(correctness);
+	}
+	
+	/**
+	 * 人员管理--添加人员
+	 */
+	public void addStuff(){
+		stuff = new StuffBlImpl_stub();
+		stuffVO = new StuffVO("10000");
+		System.out.println("----------人员管理----------");
+		stuff.addStuff(stuffVO);
+	}
+	
+	/**
+	 * 部门管理--删除部门
+	 */
+	public void delDepartment(){
+		departmentID = new String[2];
+		departmentID[0] = "1";
+		departmentID[1] = "2";
+		department = new DepartmentBlImpl_stub();
+		System.out.println("----------部门管理----------");
+		department.delDepartment(departmentID);
+	}
+	
+	/**
+	 * 常量管理--修改常量
+	 */
+	public void updateConst(){
+		constVO = new ConstVO[2];
+		constVO[0] = new ConstVO("车辆");
+		constVO[1] = new ConstVO("人员");
+		Const = new ConstBlImpl_stub();
+		System.out.println("----------常量管理----------");
+		Const.endConst(constVO);
+	}
+	
+	/**
+	 * 工资管理--获得详细工资信息
+	 */
+	public void getSalary(){
+		salary = new SalaryBlImpl_stub();
+		salary.getSalary("10000")
+	}
+	
+	
+	
+	/**
+	 * 主函数运行驱动
+	 * @param args
+	 */
+	public static void main(String[] args){
+		Main_driver driver = new Main_driver();
+		Logistics logistics = new Logistics();
+		driver.signIn();
+		driver.addStuff();
+		driver.delDepartment();
+		driver.updateConst();
+	}
+}

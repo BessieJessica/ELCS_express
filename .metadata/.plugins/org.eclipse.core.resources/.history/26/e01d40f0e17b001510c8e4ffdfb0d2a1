@@ -1,0 +1,9 @@
+package nju.edu.express.financedataservice;
+
+public interface BusinessConDataService {
+
+	/**
+	 * 获得经营情况表
+	 */
+	public BusinessPO getBusinessConChart();
+}

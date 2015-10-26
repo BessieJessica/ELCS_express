@@ -1,0 +1,14 @@
+package nju.edu.express.financebl.stub;
+
+import nju.edu.express.VO.ProfitVO;
+import nju.edu.express.financeblservice.ProfitBlService;
+
+public class ProfitBlImpl_stub implements ProfitBlService{
+
+	@Override
+	public ProfitVO getProfitChart() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

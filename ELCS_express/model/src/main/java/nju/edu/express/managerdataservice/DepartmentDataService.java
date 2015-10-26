@@ -17,6 +17,6 @@ public interface DepartmentDataService {
 	/**
 	 * 在数据库中删除DepartmentPO对象
 	 */
-	public void deleteDepartment(String departmentID);
+	public void deleteDepartment(String[] departmentID);
 	
 }

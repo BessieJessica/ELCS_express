@@ -22,7 +22,7 @@ public interface AccountDataService {
 	/**
 	 * 在数据库中删除一个银行账户持久化对象
 	 */
-	public void deleteAccount(String accountId);
+	public void deleteAccount(String[] accountID);
 	
 	/**
 	 * 在数据库中对一个银行账户持久化对象进行修改

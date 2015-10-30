@@ -2,6 +2,11 @@ package nju.edu.express.PO;
 
 import java.io.Serializable;
 
+/**
+ * 用户——用户IDuserID，用户密码password，用户权限级别access
+ * @author asd
+ *
+ */
 public class UserPO implements Serializable{
 
 	String userID;

@@ -1,7 +1,0 @@
-package nju.edu.express.financebl;
-
-import nju.edu.express.financeblservice.BusinessConBlService;
-
-public class BusinessConBlImpl implements BusinessConBlService{
-
-}

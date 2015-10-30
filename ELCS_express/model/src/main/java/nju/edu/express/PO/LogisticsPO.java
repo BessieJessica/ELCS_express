@@ -1,6 +1,8 @@
 package nju.edu.express.PO;
 
-public class LogisticsPO {
+import java.io.Serializable;
+
+public class LogisticsPO implements Serializable{
 
 	String orderID;
 	String businessInfo;

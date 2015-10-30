@@ -1,6 +1,0 @@
-package nju.edu.express.financeblservice;
-
-public interface AccountBlService {
-
-	
-}

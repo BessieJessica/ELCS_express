@@ -28,5 +28,4 @@ public class StuffDataImpl_stub implements StuffDataService{
 		// TODO Auto-generated method stub
 		
 	}
-
 }

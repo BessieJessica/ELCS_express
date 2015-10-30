@@ -1,7 +1,0 @@
-package nju.edu.express.transiterui;
-
-import javax.swing.JPanel;
-
-public class Transit_main extends JPanel {
-
-}

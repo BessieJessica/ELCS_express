@@ -1,7 +1,0 @@
-package nju.edu.express.managerdata.stub;
-
-import nju.edu.express.managerdataservice.StuffDataService;
-
-public class StuffDataImpl_stub implements StuffDataService{
-
-}

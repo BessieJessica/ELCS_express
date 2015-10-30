@@ -1,9 +1,0 @@
-package nju.edu.express.transiterdataservice;
-
-public interface OutTransDataService {
-
-	/**
-	 * 根据中转中心ID字段名查找多个持久化对象
-	 */
-	public OutTransPO[] getOutTransList(String TransitID);
-}

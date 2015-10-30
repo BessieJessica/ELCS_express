@@ -1,5 +1,0 @@
-package nju.edu.express.expressbl;
-
-public class ExpressBlImpl implements ExpressBlService{
-
-}

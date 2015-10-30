@@ -1,8 +1,0 @@
-package nju.edu.express.managerdataservice;
-
-public interface SalaryDataService {
-
-	/**
-	 * 
-	 */
-}

@@ -1,7 +1,0 @@
-package nju.edu.express.financebl;
-
-import nju.edu.express.financeblservice.PaymentBlService;
-
-public class PaymentBlImpl implements PaymentBlService{
-
-}

@@ -1,7 +1,0 @@
-package nju.edu.express.VO;
-
-public class SalaryVO {
-
-	String id;
-	String salary;
-}

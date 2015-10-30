@@ -1,7 +1,0 @@
-package nju.edu.express.mainui;
-
-import javax.swing.JFrame;
-
-public class MainFrame extends JFrame {
-
-}

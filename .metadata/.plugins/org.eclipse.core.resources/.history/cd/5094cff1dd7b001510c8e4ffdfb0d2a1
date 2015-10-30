@@ -1,7 +1,0 @@
-package nju.edu.express.financedata;
-
-import nju.edu.express.financedataservice.AccountDataService;
-
-public class AccountDataImpl implements AccountDataService{
-
-}

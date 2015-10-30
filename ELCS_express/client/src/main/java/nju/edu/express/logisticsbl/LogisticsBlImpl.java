@@ -1,5 +1,7 @@
 package nju.edu.express.logisticsbl;
 
+import java.rmi.RemoteException;
+
 import nju.edu.express.PO.LogisticsPO;
 import nju.edu.express.VO.LogisticsVO;
 import nju.edu.express.logisticsblservice.LogisticsBlService;
@@ -12,8 +14,8 @@ public class LogisticsBlImpl implements LogisticsBlService {
 	LogisticsPO logisticsPO;
 	LogisticsVO logisticsVO;
 	
-	public LogisticsVO getLogistics(String orderID) {
-		logistics = new LogisticsDataImpl_stub();
+	public LogisticsVO getLogistics(String orderID) throws RemoteException {
+//		logistics = new LogisticsDataImpl_stub();
 		logisticsPO = logistics.getLogistics(orderID);
 		transform(logisticsPO);
 		return logisticsVO;

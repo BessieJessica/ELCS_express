@@ -16,7 +16,6 @@ public class ConstDataImpl_stub implements ConstDataService {
 		for(int i=0;i<po.length;i++){
 			System.out.println(po[i].getId()+"已更新");
 		}
-
 	}
 
 }

@@ -1,7 +1,0 @@
-package nju.edu.express.managerbl.stub;
-
-import nju.edu.express.managerblservice.ConstBlService;
-
-public class ConstBlImpl_stub implements ConstBlService{
-
-}

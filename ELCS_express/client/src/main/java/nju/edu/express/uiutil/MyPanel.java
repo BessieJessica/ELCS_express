@@ -10,4 +10,5 @@ public class MyPanel extends JPanel {
 	public JPanel getPanel(){
 		return this;
 	}
+	
 }

@@ -1,5 +1,0 @@
-package nju.edu.express.transiterdataservice;
-
-public interface WareOutDataService {
-
-}

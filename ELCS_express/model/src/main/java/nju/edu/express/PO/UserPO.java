@@ -1,6 +1,8 @@
 package nju.edu.express.PO;
 
-public class UserPO {
+import java.io.Serializable;
+
+public class UserPO implements Serializable{
 
 	String userID;
 	String password;

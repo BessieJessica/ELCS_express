@@ -1,5 +1,10 @@
 package nju.edu.express.logisticsbl.stub;
 
+import java.net.MalformedURLException;
+import java.rmi.Naming;
+import java.rmi.NotBoundException;
+import java.rmi.RemoteException;
+
 import nju.edu.express.PO.LogisticsPO;
 import nju.edu.express.VO.LogisticsVO;
 import nju.edu.express.logisticsblservice.LogisticsBlService;
@@ -11,27 +16,35 @@ public class LogisticsBlImpl_stub implements LogisticsBlService {
 	LogisticsDataService logistics;
 	LogisticsPO logisticsPO;
 	LogisticsVO logisticsVO;
-	
+
 	public LogisticsVO getLogistics(String orderID) {
-		logistics = new LogisticsDataImpl_stub();
-		logisticsPO = logistics.getLogistics(orderID);
-		if(logisticsPO==null)
+		try {
+			logistics = (LogisticsDataService) Naming
+					.lookup("rmi://127.0.0.1:6600/LogisticsService");
+			logisticsPO = logistics.getLogistics(orderID);
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} 
+		
+		if (logisticsPO == null){
+			System.out.println("logisticsPO==null");
 			return null;
-		else
-		{
+		}	
+		else {
 			transform(logisticsPO);
 			return logisticsVO;
 		}
-		
+
 	}
-	
-	private void transform(LogisticsPO po)
-	{
+
+	private void transform(LogisticsPO po) {
 		String orderID = po.getOrderID();
 		String businessInfo = po.getBusinessInfo();
 		String warehouseInfo = po.getWarehouseInfo();
 		String expresser = po.getExpresser();
 		String contact = po.getContact();
-		logisticsVO = new LogisticsVO(orderID, businessInfo, warehouseInfo, expresser, contact);	
+		logisticsVO = new LogisticsVO(orderID, businessInfo, warehouseInfo,
+				expresser, contact);
 	}
 }

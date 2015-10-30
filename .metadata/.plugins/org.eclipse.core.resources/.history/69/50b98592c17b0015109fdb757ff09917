@@ -1,7 +1,0 @@
-package nju.edu.express.managerdata.stub;
-
-import nju.edu.express.managerdataservice.DepartmentDataService;
-
-public class DepartmentDataImpl_stub implements DepartmentDataService{
-
-}

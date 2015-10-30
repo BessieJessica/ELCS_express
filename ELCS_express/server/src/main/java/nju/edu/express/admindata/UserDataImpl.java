@@ -1,9 +1,27 @@
 package nju.edu.express.admindata;
 
+import java.rmi.RemoteException;
+import java.rmi.server.UnicastRemoteObject;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+
 import nju.edu.express.PO.UserPO;
 import nju.edu.express.admindataservice.UserDataService;
+import nju.edu.express.mysql.MySqlImpl;
 
-public class UserDataImpl implements UserDataService {
+public class UserDataImpl extends UnicastRemoteObject implements
+		UserDataService {
+	MySqlImpl mySql;
+
+	public UserDataImpl() throws RemoteException {
+		super();
+		try {
+			mySql = new MySqlImpl();
+		} catch (ClassNotFoundException | SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
 
 	@Override
 	public UserPO[] getUserList() {
@@ -13,8 +31,22 @@ public class UserDataImpl implements UserDataService {
 
 	@Override
 	public UserPO getUser(String userID) {
-		// TODO Auto-generated method stub
-		return null;
+		ResultSet rs;
+		UserPO po = null;
+
+		try {
+			rs = mySql.query("select password,access from user where userID = "
+					+ "'" + userID + "'");
+			if(rs.next())
+				po = new UserPO(userID, rs.getString(1), rs.getString(2));
+			else
+				return po;
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+		return po;
 	}
 
 	@Override

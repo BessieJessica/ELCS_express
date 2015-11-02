@@ -35,7 +35,7 @@ public class UserDataImpl extends UnicastRemoteObject implements
 		UserPO po = null;
 
 		try {
-			rs = mySql.query("select password,access from user where userID = "
+			rs = mySql.query("SELECT password,access FROM user WHERE userID = "
 					+ "'" + userID + "'");
 			if(rs.next())
 				po = new UserPO(userID, rs.getString(1), rs.getString(2));

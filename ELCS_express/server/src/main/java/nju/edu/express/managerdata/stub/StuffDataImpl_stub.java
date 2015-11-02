@@ -19,7 +19,7 @@ public class StuffDataImpl_stub implements StuffDataService{
 
 	@Override
 	public void insertStuff(StuffPO po) {
-		System.out.println("添加人员"+po.getId()+"成功");
+//		System.out.println("添加人员"+po.getId()+"成功");
 		
 	}
 

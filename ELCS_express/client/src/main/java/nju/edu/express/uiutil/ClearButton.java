@@ -63,7 +63,14 @@ public class ClearButton extends JButton implements MouseListener {
 	 */
 	@Override
 	public void mouseClicked(MouseEvent e) {
-		MainFrame.mainFrame.exit();
+		if(imgInfo==MyImg.EXIT)
+			MainFrame.getInstance().exit();
+		else if(imgInfo==MyImg.LOGIN)
+			MainFrame.getInstance().login();
+		else if(imgInfo==MyImg.QUERY){
+			MainPanel mainPanel = (MainPanel) this.getParent();
+			mainPanel.query();
+		}
 	}
 
 	@Override
@@ -75,18 +82,22 @@ public class ClearButton extends JButton implements MouseListener {
 
 	@Override
 	public void mouseReleased(MouseEvent e) {
-		// TODO Auto-generated method stub
+		
+		changeCondition(imgInfo, "entered");
+		this.repaint();
 
 	}
 
 	@Override
 	public void mouseEntered(MouseEvent e) {
+		
 		changeCondition(imgInfo, "entered");
 		this.repaint();
 	}
 
 	@Override
 	public void mouseExited(MouseEvent e) {
+		
 		changeCondition(imgInfo, "normal");
 		this.repaint();
 	}
@@ -110,8 +121,15 @@ public class ClearButton extends JButton implements MouseListener {
 			if(condition.equals("normal"))
 				img = MyImg.loginButton_normal;
 		}
-			
 		
+		if(info == MyImg.QUERY){
+			if(condition.equals("pressed"))
+				img = MyImg.queryButton_pressed;
+			if(condition.equals("entered"))
+				img = MyImg.queryButton_entered;
+			if(condition.equals("normal"))
+				img = MyImg.queryButton_normal;
+		}
 	}
 
 }

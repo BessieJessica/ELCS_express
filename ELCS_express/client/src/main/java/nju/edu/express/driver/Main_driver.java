@@ -1,7 +1,5 @@
 package nju.edu.express.driver;
 
-import java.rmi.RemoteException;
-
 import nju.edu.express.VO.BalanceVO;
 import nju.edu.express.VO.BusinessConVO;
 import nju.edu.express.VO.CarVO;
@@ -11,7 +9,6 @@ import nju.edu.express.VO.DistributeVO;
 import nju.edu.express.VO.DriverVO;
 import nju.edu.express.VO.InArrivalVO;
 import nju.edu.express.VO.InTransVO;
-import nju.edu.express.VO.LogisticsVO;
 import nju.edu.express.VO.OutArrivalVO;
 import nju.edu.express.VO.OutTransVO;
 import nju.edu.express.VO.PaymentVO;
@@ -38,8 +35,6 @@ import nju.edu.express.financeblservice.BalanceBlService;
 import nju.edu.express.financeblservice.BusinessConBlService;
 import nju.edu.express.financeblservice.PaymentBlService;
 import nju.edu.express.financeblservice.ProfitBlService;
-import nju.edu.express.logisticsbl.stub.LogisticsBlImpl_stub;
-import nju.edu.express.logisticsblservice.LogisticsBlService;
 import nju.edu.express.mainui.MainFrame;
 import nju.edu.express.managerbl.stub.ConstBlImpl_stub;
 import nju.edu.express.managerbl.stub.DepartmentBlImpl_stub;
@@ -60,7 +55,7 @@ public class Main_driver {
 	/**
 	 * 获得物流信息界面，这部分功能在图形界面实现！
 	 */
-	LogisticsBlService logistics;
+	/*LogisticsBlService logistics;
 	LogisticsVO logisticsVO;
 
 	public void getLogistics() {
@@ -77,7 +72,7 @@ public class Main_driver {
 			e.printStackTrace();
 		}
 
-	}
+	}*/
 
 	/**
 	 * 登录

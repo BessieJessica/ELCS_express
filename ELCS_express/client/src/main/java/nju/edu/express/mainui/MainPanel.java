@@ -142,7 +142,7 @@ public class MainPanel extends JPanel implements Runnable {
 	public void query() {
 		
 		LogisticsBlImpl logistics = new LogisticsBlImpl();
-		LogisticsVO logisticsVO = logistics.getLogistics(logisticsInfo.getText());
+		LogisticsVO[] logisticsVO = logistics.getLogistics(logisticsInfo.getText());
 		t = new Thread(this);
 		//订单号输入错误
 		if(logisticsVO==null){
@@ -158,6 +158,7 @@ public class MainPanel extends JPanel implements Runnable {
 			logisticsInfo.setVisible(false);
 			queryButton.setVisible(false);
 			t.start();
+			
 		}
 		
 	}

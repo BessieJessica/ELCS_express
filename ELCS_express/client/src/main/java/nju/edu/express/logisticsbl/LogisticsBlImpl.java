@@ -14,18 +14,19 @@ import nju.edu.express.logisticsdataservice.LogisticsDataService;
 public class LogisticsBlImpl implements LogisticsBlService {
 
 	LogisticsDataService logistics;
-	LogisticsPO logisticsPO;
-	LogisticsVO logisticsVO;
+	LogisticsPO[] logisticsPO;
+	LogisticsVO[] logisticsVO;
 
-	public LogisticsVO getLogistics(String orderID) {
+	public LogisticsVO[] getLogistics(String orderID) {
 		if (orderID.matches("\\d{10}")) {// 格式符合
 			try {
 				logistics = (LogisticsDataService) Naming
 						.lookup("rmi://127.0.0.1:6600/LogisticsService");
 				logisticsPO = logistics.getLogistics(orderID);
-				if(logisticsPO==null)//如果在数据库中不存在
+				if (logisticsPO == null)// 如果在数据库中不存在
 					return null;
-				else//在数据库中存在数据
+				else
+					// 在数据库中存在数据
 					transform(logisticsPO);
 				return logisticsVO;
 			} catch (MalformedURLException | RemoteException
@@ -34,16 +35,18 @@ public class LogisticsBlImpl implements LogisticsBlService {
 				e.printStackTrace();
 			}
 
-		} else//格式不符合
+		} else
+			// 格式不符合
 			return null;
 		return null;
 
 	}
 
-	private void transform(LogisticsPO po) {
-		String orderID = po.getOrderID();
-		String expressInfo = po.getExpressInfo();
-		String contact = po.getContact();
-		logisticsVO = new LogisticsVO(orderID, expressInfo, contact);
+	private void transform(LogisticsPO[] po) {
+		logisticsVO = new LogisticsVO[po.length];
+		for (int i = 0; i < po.length; i++) {
+			logisticsVO[i] = new LogisticsVO(po[i].getOrderID(),
+					po[i].getTime(), po[i].getExpressInfo(), po[i].getContact());
+		}
 	}
 }

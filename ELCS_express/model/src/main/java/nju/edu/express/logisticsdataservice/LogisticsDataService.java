@@ -10,7 +10,7 @@ public interface LogisticsDataService extends Remote{
 	/**
 	 * 根据ID查找单一持久化对象
 	 */
-	public LogisticsPO getLogistics(String orderID) throws RemoteException;
+	public LogisticsPO[] getLogistics(String orderID) throws RemoteException;
 	
 	/**
 	 * 增加单一持久化对象

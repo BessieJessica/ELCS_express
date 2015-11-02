@@ -9,8 +9,8 @@ public interface LogisticsBlService {
 	/**
 	 * 根据订单号查询物流信息
 	 * @param orderID
-	 * @return
+	 * @return LogisticsVO[]
 	 * @throws RemoteException
 	 */
-	public LogisticsVO getLogistics(String orderID) throws RemoteException;
+	public LogisticsVO[] getLogistics(String orderID) throws RemoteException;
 }

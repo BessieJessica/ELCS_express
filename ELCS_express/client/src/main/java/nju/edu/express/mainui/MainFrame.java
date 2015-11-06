@@ -2,10 +2,11 @@ package nju.edu.express.mainui;
 
 import java.awt.Color;
 import java.awt.Dimension;
-import java.awt.Graphics;
 import java.awt.Toolkit;
 
 import javax.swing.JFrame;
+
+import nju.edu.express.enumdata.StuffAccess;
 
 public class MainFrame extends JFrame implements Runnable {
 
@@ -59,13 +60,12 @@ public class MainFrame extends JFrame implements Runnable {
 	}
 
 	/**
-	 * 登录，跳转至SignInPanel
+	 * 登录，跳转至相应主界面
 	 */
-	public void login() {
-		// SignInPanel signInPanel = new SignInPanel(this);
-		// this.remove(mainPanel);
-		// this.add(signInPanel) ;
-		// repaint();
+	public void login(StuffAccess access) {
+		if(access==StuffAccess.EXPRESSER){
+			
+		}
 	}
 
 

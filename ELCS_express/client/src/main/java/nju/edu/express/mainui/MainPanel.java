@@ -11,6 +11,8 @@ import javax.swing.JTextField;
 import nju.edu.express.VO.LogisticsVO;
 import nju.edu.express.logisticsbl.LogisticsBlImpl;
 import nju.edu.express.logisticsui.LogisticsPanel;
+import nju.edu.express.signinbl.SigninBlImpl;
+import nju.edu.express.signinui.SigninPanel;
 import nju.edu.express.uiutil.ClearButton;
 import nju.edu.express.uiutil.ClearLabel;
 import nju.edu.express.uiutil.FrameTextField;
@@ -18,12 +20,11 @@ import nju.edu.express.uiutil.MyImg;
 
 public class MainPanel extends JPanel implements Runnable {
 
-	JButton exitButton;
-	JButton queryButton;
-	JButton loginButton;
+	JButton exitButton,queryButton,loginButton;
 	JTextField logisticsInfo;
 	ClearLabel errInfo;
 	LogisticsPanel logisticsPanel;
+	SigninPanel signinPanel;
 	Thread t;
 	int threadMark;
 
@@ -68,6 +69,10 @@ public class MainPanel extends JPanel implements Runnable {
 		logisticsPanel = new LogisticsPanel();
 		this.add(logisticsPanel);
 
+		//登录界面建立
+		signinPanel = new SigninPanel();
+		this.add(signinPanel);
+		
 		// 设置绝对布局
 		this.setLayout(null);
 
@@ -135,10 +140,44 @@ public class MainPanel extends JPanel implements Runnable {
 			}
 			logisticsInfo.setVisible(true);
 			queryButton.setVisible(true);
+			loginButton.setVisible(true);
 		}
-
+		else if(threadMark==4){//登陆面板滑出
+			int i = 0;
+			while(i<=182){
+				signinPanel.setBounds(-729+i*4, 0, 729, 762);
+				i++;
+				try {
+					t.sleep(1);
+				} catch (InterruptedException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+				MainFrame.getInstance().repaint();
+			}
+		}
+		else if(threadMark==5){//登录面板滑回
+			int i = 0;
+			while(i<=182){
+				signinPanel.setBounds(-i*4, 0, 729, 762);
+				i++;
+				try {
+					t.sleep(1);
+				} catch (InterruptedException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+				MainFrame.getInstance().repaint();
+			}
+			logisticsInfo.setVisible(true);
+			queryButton.setVisible(true);
+			
+		}
 	}
 
+	/**
+	 * 查询物流信息按钮事件，logisticsPanel滑出或输入错误，调用thread
+	 */
 	public void query() {
 		
 		LogisticsBlImpl logistics = new LogisticsBlImpl();
@@ -150,23 +189,48 @@ public class MainPanel extends JPanel implements Runnable {
 			errInfo.setText("输入订单号有误，请重新输入。");
 			threadMark = 1;
 			t.start();
-			logisticsInfo.setText("");
 		}
 		else{
 			threadMark = 2;
 			errInfo.setText("");
 			logisticsInfo.setVisible(false);
 			queryButton.setVisible(false);
+			loginButton.setVisible(false);
+			logisticsPanel.setHead(logisticsVO[0].getOrderID());//设置orderID
+			logisticsPanel.setContent(logisticsVO);//设置内容
 			t.start();
 			
 		}
 		
 	}
 	
-	public void back(){
+	/**
+	 * logisticsPanel 滑回，调用thread
+	 */
+	public void logisticsPanelBack(){
 		threadMark = 3;
 		t = new Thread(this);
 		t.start();
 	}
 
+	/**
+	 * signinPanel滑出，调用thread
+	 */
+	public void signin(){
+		threadMark = 4;
+		logisticsInfo.setVisible(false);
+		queryButton.setVisible(false);
+		t = new Thread(this);
+		t.start();
+	}
+	
+	/**
+	 * signinPanel滑回，调用thread
+	 */
+	public void signinPanelBack(){
+		threadMark = 5;
+		t = new Thread(this);
+		t.start();
+	}
+	
 }

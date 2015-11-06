@@ -17,7 +17,7 @@ public class testPanel extends JPanel {
 	 * @throws IOException 
 	 * @throws FontFormatException 
 	 */
-	public testPanel() throws FontFormatException, IOException {
+	public testPanel(){
 		
 		setLayout(null);
 		JButton testButton = new testButton();

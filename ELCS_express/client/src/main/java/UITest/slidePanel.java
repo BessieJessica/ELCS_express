@@ -1,10 +1,8 @@
 package UITest;
 
-import java.awt.AlphaComposite;
 import java.awt.Color;
 import java.awt.Font;
-import java.awt.Graphics;
-import java.awt.Graphics2D;
+import java.util.Collections;
 
 import javax.swing.JLabel;
 import javax.swing.JPanel;
@@ -20,6 +18,9 @@ public class slidePanel extends JPanel implements Runnable {
 	private JTextField textField;
 
 	public slidePanel() {
+		
+		
+		
 		setLayout(null);
 
 		JLabel lblFirstPanel = new JLabel("First Panel");

@@ -35,6 +35,19 @@ public class MyImg {
 	public static Image queryTextField = new ImageIcon(ImgDir+MainPanelDir+"logistics_textfield.png").getImage();
 	
 	//物流查询背景
-	public static Image logisticsPanel = new ImageIcon(ImgDir+MainPanelDir+"logisticspanel.png").getImage();
+	public static Image logisticsPanel = new ImageIcon(ImgDir+MainPanelDir+"logisticspanel_background.png").getImage();
+	
+	//登录确认按钮
+	public static int CONFIRM = 4;
+	public static Image confirmButton_normal = new ImageIcon(ImgDir+MainPanelDir+"confirmbutton_normal.png").getImage();
+	public static Image confirmButton_entered = new ImageIcon(ImgDir+MainPanelDir+"confirmbutton_entered.png").getImage();
+	public static Image confirmButton_pressed = new ImageIcon(ImgDir+MainPanelDir+"confirmbutton_pressed.png").getImage();
+
+	//记住用户名按钮
+	public static Image rememberButton_normal = new ImageIcon(ImgDir+MainPanelDir+"rememberbutton_normal.png").getImage();
+	public static Image rememberButton_clicked = new ImageIcon(ImgDir+MainPanelDir+"rememberbutton_clicked.png").getImage();
+	
+	//登录界面背景
+	public static Image signinPanel = new ImageIcon(ImgDir+MainPanelDir+"signinpanel_background.png").getImage();
 	
 }

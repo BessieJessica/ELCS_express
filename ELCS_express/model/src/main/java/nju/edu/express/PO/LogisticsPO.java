@@ -2,6 +2,7 @@ package nju.edu.express.PO;
 
 import java.io.Serializable;
 import java.sql.Date;
+import java.sql.Timestamp;
 import java.util.Calendar;
 
 /**
@@ -13,15 +14,15 @@ import java.util.Calendar;
 public class LogisticsPO implements Serializable {
 
 	String orderID;
-	Date time;
+	Timestamp time;
 	String expressInfo;
 	String contact;
 	
 	
-	public LogisticsPO(String orderID, Date time, String expressInfo, String contact) {
+	public LogisticsPO(String orderID, Timestamp timestamp, String expressInfo, String contact) {
 		super();
 		this.orderID = orderID;
-		this.time = time;
+		this.time = timestamp;
 		this.expressInfo = expressInfo;
 		this.contact = contact;
 	}
@@ -45,11 +46,11 @@ public class LogisticsPO implements Serializable {
 		this.contact = contact;
 	}
 
-	public Date getTime() {
+	public Timestamp getTime() {
 		return time;
 	}
 
-	public void setTime(Date time) {
+	public void setTime(Timestamp time) {
 		this.time = time;
 	}
 	

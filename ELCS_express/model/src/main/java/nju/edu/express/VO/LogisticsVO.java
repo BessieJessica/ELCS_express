@@ -1,20 +1,21 @@
 package nju.edu.express.VO;
 
 import java.sql.Date;
+import java.sql.Timestamp;
 import java.util.Calendar;
 
 public class LogisticsVO {
 
 	String orderID;
-	Date time;
+	Timestamp time;
 	String expressInfo;
 	String contact;
 	
 	
-	public LogisticsVO(String orderID, Date time, String expressInfo, String contact) {
+	public LogisticsVO(String orderID, Timestamp timestamp, String expressInfo, String contact) {
 		super();
 		this.orderID = orderID;
-		this.time = time;
+		this.time = timestamp;
 		this.expressInfo = expressInfo;
 		this.contact = contact;
 	}
@@ -38,11 +39,11 @@ public class LogisticsVO {
 		this.contact = contact;
 	}
 
-	public Date getTime() {
+	public Timestamp getTime() {
 		return time;
 	}
 
-	public void setTime(Date time) {
+	public void setTime(Timestamp time) {
 		this.time = time;
 	}
 	

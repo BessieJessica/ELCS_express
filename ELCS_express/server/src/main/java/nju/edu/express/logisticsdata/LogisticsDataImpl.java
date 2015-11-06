@@ -33,16 +33,18 @@ public class LogisticsDataImpl extends UnicastRemoteObject implements
 		
 		try {
 			rs = mySql
-					.query("SELECT time,expressInfo,contact FROM logistics as l WHERE orderID = '"
-							+ orderID + "' order by l.time desc");
+					.query("SELECT time,expressInfo,contact FROM logistics WHERE orderID = '"
+							+ orderID + "' ORDER BY time DESC");
 			rs.last();
 			int length = rs.getRow();
+			if(length==0)
+				return po;
 			po = new LogisticsPO[length];
 			rs.beforeFirst();
 			
 			for(int i=0;i<length;i++){
 				rs.next();
-				po[i] = new LogisticsPO(orderID, rs.getDate(1),rs.getString(2), rs.getString(3));
+				po[i] = new LogisticsPO(orderID, rs.getTimestamp(1),rs.getString(2), rs.getString(3));
 			}
 
 		} catch (SQLException e) {

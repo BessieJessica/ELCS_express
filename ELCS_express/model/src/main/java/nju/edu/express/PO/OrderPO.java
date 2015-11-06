@@ -1,9 +1,21 @@
 package nju.edu.express.PO;
 /**
- * 订单信息——订单号orderID,寄件人姓名sender_name、住址sender_adress、单位sender_danwei、电话ender_telephone、手机sender_phoneNUm；
- * 收件人姓名receiver_name、住址 receiver_adress、单位receiver_danwei、电话receiver_telephone、手机receiver_phoneNUm；
- * 托运货物信息（原件数cargo_num、实际重量cargo_weight、体积cargo_volume、内件品名cargo_name、尺寸cargo_size）；
- * 包装费packagingCost（纸箱、木箱、快递袋、其它）；费用合计totalCost；；经济快递、标准快递、特快；种类postKind,
+ * 订单信息——<br>
+ * 订单号orderID<br>
+ * 寄件人姓名sender_name<br>
+ *   住址sender_adress<br>
+ *   单位sender_danwei<br>
+ *   电话ender_telephone<br>
+ *   手机sender_phoneNum<br>
+ * 收件人姓名receiver_name<br>
+ *   住址 receiver_adress<br>
+ *   单位receiver_danwei<br>
+ *   电话receiver_telephone<br>
+ *   手机receiver_phoneNum<br>
+ * 托运货物信息（原件数cargo_num、实际重量cargo_weight、体积cargo_volume、内件品名cargo_name、尺寸cargo_size）<br>
+ * 包装费packagingCost（纸箱、木箱、快递袋、其它）<br>
+ * 费用合计totalCost<br>
+ * 种类postKind(经济快递、标准快递、特快)<br>
  * 订单完成状态orderState、收件人receiver_signature、收件日期receive_date
  *
  *
@@ -17,7 +29,7 @@ public class OrderPO {
 	 * 寄件人单位。。。
 	 */
 	String sender_danwei;
-	String sender_phoneNUm;
+	String sender_phoneNum;
 	String sender_telephone;
 	
 	String receiver_name;
@@ -26,7 +38,7 @@ public class OrderPO {
 	 * 收件人单位。。。
 	 */
 	String receiver_danwei;
-	String receiver_phoneNUm;
+	String receiver_phoneNum;
 	String receiver_telephone;
 	
 	String cargo_num;
@@ -80,12 +92,12 @@ public class OrderPO {
 		this.sender_name = sender_name;
 		this.sender_adress = sender_adress;
 		this.sender_danwei = sender_danwei;
-		this.sender_phoneNUm = sender_phoneNUm;
+		this.sender_phoneNum = sender_phoneNUm;
 		this.sender_telephone = sender_telephone;
 		this.receiver_name = receiver_name;
 		this.receiver_adress = receiver_adress;
 		this.receiver_danwei = receiver_danwei;
-		this.receiver_phoneNUm = receiver_phoneNUm;
+		this.receiver_phoneNum = receiver_phoneNUm;
 		this.receiver_telephone = receiver_telephone;
 		this.cargo_num = cargo_num;
 		this.cargo_weight = cargo_weight;
@@ -127,10 +139,10 @@ public class OrderPO {
 		this.sender_danwei = sender_danwei;
 	}
 	public String getSender_phoneNUm() {
-		return sender_phoneNUm;
+		return sender_phoneNum;
 	}
 	public void setSender_phoneNUm(String sender_phoneNUm) {
-		this.sender_phoneNUm = sender_phoneNUm;
+		this.sender_phoneNum = sender_phoneNUm;
 	}
 	public String getSender_telephone() {
 		return sender_telephone;
@@ -157,10 +169,10 @@ public class OrderPO {
 		this.receiver_danwei = receiver_danwei;
 	}
 	public String getReceiver_phoneNUm() {
-		return receiver_phoneNUm;
+		return receiver_phoneNum;
 	}
 	public void setReceiver_phoneNUm(String receiver_phoneNUm) {
-		this.receiver_phoneNUm = receiver_phoneNUm;
+		this.receiver_phoneNum = receiver_phoneNUm;
 	}
 	public String getReceiver_telephone() {
 		return receiver_telephone;

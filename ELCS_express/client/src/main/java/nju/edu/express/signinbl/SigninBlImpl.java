@@ -13,10 +13,10 @@ public class SigninBlImpl implements SigninBlService {
 		
 		if(id.length()>12)
 			return false;
-		if(id.matches("\\w")&&(password.matches("\\w")))
+		else if(id.matches("\\w+")&&(password.matches("\\w+")))
 			return true;
 		else 
-			return false;	
+			return false;
 	}
 
 	

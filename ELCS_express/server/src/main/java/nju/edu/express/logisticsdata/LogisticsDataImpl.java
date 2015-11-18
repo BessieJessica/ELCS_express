@@ -4,7 +4,6 @@ import java.rmi.RemoteException;
 import java.rmi.server.UnicastRemoteObject;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-import java.sql.Timestamp;
 
 import nju.edu.express.PO.LogisticsPO;
 import nju.edu.express.logisticsdataservice.LogisticsDataService;
@@ -54,9 +53,9 @@ public class LogisticsDataImpl extends UnicastRemoteObject implements
 		return po;
 	}
 
-	public void insertLogistics(LogisticsPO po) {
+	public boolean insertLogistics(LogisticsPO po) {
 		// TODO Auto-generated method stub
-
+		return false;
 	}
 
 }

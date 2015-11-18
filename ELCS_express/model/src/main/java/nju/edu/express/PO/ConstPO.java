@@ -15,15 +15,13 @@ public class ConstPO {
 	 * @param price
 	 * @param distance
 	 */
-	public ConstPO(double price, double distance) {
+	public ConstPO(String id, double price, double distance) {
 		super();
+		this.id = id;
 		this.price = price;
 		this.distance = distance;
 	}
 
-	public ConstPO(){
-		
-	}
 	public double getPrice() {
 		return price;
 	}
@@ -38,11 +36,6 @@ public class ConstPO {
 
 	public void setDistance(double distance) {
 		this.distance = distance;
-	}
-
-	public ConstPO(String id) {
-		super();
-		this.id = id;
 	}
 
 	public String getId() {

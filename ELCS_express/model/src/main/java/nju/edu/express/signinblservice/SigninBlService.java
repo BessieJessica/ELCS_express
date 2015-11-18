@@ -2,7 +2,7 @@ package nju.edu.express.signinblservice;
 
 import java.rmi.RemoteException;
 
-import nju.edu.express.enumdata.StuffAccess;
+import nju.edu.express.VO.UserVO;
 
 
 
@@ -23,5 +23,5 @@ public interface SigninBlService {
 	 * @param password 密码
 	 * @return StuffAccess
 	 */
-	public StuffAccess isCorrect(String id,String password)throws RemoteException;
+	public UserVO isCorrect(String id,String password)throws RemoteException;
 }

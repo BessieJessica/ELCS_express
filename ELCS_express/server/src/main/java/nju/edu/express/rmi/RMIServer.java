@@ -25,6 +25,8 @@ public class RMIServer {
 			UserDataService userData = new UserDataImpl();
 			Naming.rebind(host+"UserService",userData);
 			
+			
+			
 		} catch (RemoteException | MalformedURLException e) {
 			e.printStackTrace();
 		}

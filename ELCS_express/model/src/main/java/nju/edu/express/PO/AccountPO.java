@@ -21,9 +21,6 @@ public class AccountPO {
 		this.password = password;
 		this.balanceOfAccount = balanceOfAccount;
 	}
-	public AccountPO(){
-		
-	}
 	public String getAccountID() {
 		return accountID;
 	}

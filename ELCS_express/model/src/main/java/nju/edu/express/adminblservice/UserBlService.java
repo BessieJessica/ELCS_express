@@ -17,15 +17,15 @@ public interface UserBlService {
 	/**
 	 * 新增用户信息
 	 */
-	public void addUser(UserVO vo);
+	public boolean addUser(UserVO vo);
 	
 	/**
 	 * 根据userID删除相应用户信息
 	 */
-	public void delUser(String[] userID);
+	public boolean delUser(String[] userID);
 	
 	/**
 	 * 完成修改信息后，更新用户信息
 	 */
-	public void endUser(UserVO vo);
+	public boolean endUser(UserVO vo);
 }

@@ -20,16 +20,16 @@ public interface UserDataService extends Remote{
 	/**
 	 * 插入单一持久化对象
 	 */
-	public void insertUser(UserPO po) throws RemoteException;
+	public boolean insertUser(UserPO po) throws RemoteException;
 	
 	/**
 	 * 删除单一持久化对象
 	 */
-	public void deleteUser(String userID) throws RemoteException;
+	public boolean deleteUser(String userID) throws RemoteException;
 	
 	/**
 	 * 更新单一持久化对象
 	 */
-	public void updateUser(UserPO po) throws RemoteException;
+	public boolean updateUser(UserPO po) throws RemoteException;
 
 }

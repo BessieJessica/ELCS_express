@@ -13,4 +13,11 @@ public interface InTransBlService {
 	 * 根据inTransID获得相应装车单信息
 	 */
 	public InTransVO getInTrans(String inTransID);
+	
+	/**
+	 * 添加新的装车单
+	 * @param intransVO
+	 * @return
+	 */
+	public boolean addInTrans(InTransVO intransVO);
 }

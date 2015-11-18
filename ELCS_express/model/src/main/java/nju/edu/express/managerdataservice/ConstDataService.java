@@ -12,6 +12,6 @@ public interface ConstDataService {
 	/**
 	 * 更新ConstPO
 	 */
-	public void updateConst(ConstPO[] po);
+	public boolean updateConst(ConstPO[] po);
 	
 }

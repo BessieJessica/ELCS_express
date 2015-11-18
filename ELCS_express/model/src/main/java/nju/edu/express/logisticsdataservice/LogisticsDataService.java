@@ -15,5 +15,5 @@ public interface LogisticsDataService extends Remote{
 	/**
 	 * 增加单一持久化对象
 	 */
-	public void insertLogistics(LogisticsPO po) throws RemoteException;
+	public boolean insertLogistics(LogisticsPO po) throws RemoteException;
 }

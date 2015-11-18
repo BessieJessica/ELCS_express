@@ -12,5 +12,7 @@ public interface LogisticsBlService {
 	 * @return LogisticsVO[]
 	 * @throws RemoteException
 	 */
-	public LogisticsVO[] getLogistics(String orderID) throws RemoteException;
+	public LogisticsVO[] getLogistics(String orderID);
+	
+	public boolean insertLogistics(LogisticsVO logisticsVO);
 }

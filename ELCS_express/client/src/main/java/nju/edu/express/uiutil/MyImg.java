@@ -9,6 +9,7 @@ public class MyImg {
 
 	final static String ImgDir = "resources/";
 	final static String MainPanelDir = "mainpanel/";
+	final static String ExpressPanelDir = "expresspanel/";
 
 	//退出按钮
 	public static int EXIT = 1;
@@ -49,5 +50,30 @@ public class MyImg {
 	
 	//登录界面背景
 	public static Image signinPanel = new ImageIcon(ImgDir+MainPanelDir+"signinpanel_background.png").getImage();
+
+	//快递员、营业厅业务员、中转中心业务员、仓库管理员、财务人员界面背景
+	public static Image submainPanel_background = new ImageIcon(ImgDir+ExpressPanelDir+"__main.png").getImage();
 	
+	//订单输入按钮
+	public static int REGISTER_ORDER = 5;
+	public static Image registerOrderButton_normal = new ImageIcon(ImgDir+ExpressPanelDir+"registerorderButton_normal.png").getImage();
+	public static Image registerOrderButton_entered = new ImageIcon(ImgDir+ExpressPanelDir+"registerorderButton_entered.png").getImage();
+	public static Image registerOrderButton_pressed = new ImageIcon(ImgDir+ExpressPanelDir+"registerorderButton_pressed.png").getImage();
+	
+	//结束订单按钮
+	public static int END_ORDER = 6;
+	public static Image endOrderButton_normal = new ImageIcon(ImgDir+ExpressPanelDir+"endorderButton_normal.png").getImage();
+	public static Image endOrderButton_entered = new ImageIcon(ImgDir+ExpressPanelDir+"endorderButton_entered.png").getImage();
+	public static Image endOrderButton_pressed = new ImageIcon(ImgDir+ExpressPanelDir+"endorderButton_pressed.png").getImage();
+	
+	//注销按钮
+	public static int UNREGISTER = 7;
+	public static Image unRegisterButton_normal = new ImageIcon(ImgDir+ExpressPanelDir+"unregisterButton_normal.png").getImage();
+	public static Image unRegisterButton_entered = new ImageIcon(ImgDir+ExpressPanelDir+"unregisterButton_entered.png").getImage();
+	public static Image unRegisterButton_pressed = new ImageIcon(ImgDir+ExpressPanelDir+"unregisterButton_pressed.png").getImage();
+	
+	//快递员头像
+	public static Image expressLogo = new ImageIcon(ImgDir+ExpressPanelDir+"expressLogo.png").getImage();
+
+
 }

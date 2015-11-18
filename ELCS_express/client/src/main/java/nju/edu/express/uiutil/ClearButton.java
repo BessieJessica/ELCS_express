@@ -9,9 +9,9 @@ import java.awt.event.MouseListener;
 
 import javax.swing.JButton;
 
-import nju.edu.express.mainui.MainFrame;
-import nju.edu.express.mainui.MainPanel;
-import nju.edu.express.signinui.SigninPanel;
+import nju.edu.express.presentation.mainui.MainFrame;
+import nju.edu.express.presentation.mainui.MainPanel;
+import nju.edu.express.presentation.signinui.SigninPanel;
 
 public class ClearButton extends JButton implements MouseListener {
 	
@@ -145,6 +145,15 @@ public class ClearButton extends JButton implements MouseListener {
 				img = MyImg.confirmButton_entered;
 			if(condition.equals("normal"))
 				img = MyImg.confirmButton_normal;
+		}
+		
+		if(info == MyImg.REGISTER_ORDER){
+			if(condition.equals("pressed"))
+				img = MyImg.endOrderButton_pressed;
+			if(condition.equals("entered"))
+				img = MyImg.endOrderButton_entered;
+			if(condition.equals("normal"))
+				img = MyImg.endOrderButton_normal;
 		}
 		
 	}

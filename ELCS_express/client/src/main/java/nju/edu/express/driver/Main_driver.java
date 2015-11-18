@@ -15,37 +15,37 @@ import nju.edu.express.VO.PaymentVO;
 import nju.edu.express.VO.ProfitVO;
 import nju.edu.express.VO.SalaryVO;
 import nju.edu.express.VO.StuffVO;
-import nju.edu.express.businessbl.stub.CarBlImpl_stub;
-import nju.edu.express.businessbl.stub.DistributeBlImpl_stub;
-import nju.edu.express.businessbl.stub.DriverBlImpl_stub;
-import nju.edu.express.businessbl.stub.InArrivalBlImpl_stub;
-import nju.edu.express.businessbl.stub.InTransBlImpl_stub;
 import nju.edu.express.businesserblservice.CarBlService;
 import nju.edu.express.businesserblservice.DistributeBlService;
 import nju.edu.express.businesserblservice.DriverBlService;
 import nju.edu.express.businesserblservice.InArrivalBlService;
 import nju.edu.express.businesserblservice.InTransBlService;
-import nju.edu.express.financebl.stub.AccountBlImpl_stub;
-import nju.edu.express.financebl.stub.BalanceBlImpl_stub;
-import nju.edu.express.financebl.stub.BusinessConBlImpl_stub;
-import nju.edu.express.financebl.stub.PaymentBlImpl_stub;
-import nju.edu.express.financebl.stub.ProfitBlImpl_stub;
+import nju.edu.express.businesslogic.businessbl.stub.CarBlImpl_stub;
+import nju.edu.express.businesslogic.businessbl.stub.DistributeBlImpl_stub;
+import nju.edu.express.businesslogic.businessbl.stub.DriverBlImpl_stub;
+import nju.edu.express.businesslogic.businessbl.stub.InArrivalBlImpl_stub;
+import nju.edu.express.businesslogic.businessbl.stub.InTransBlImpl_stub;
+import nju.edu.express.businesslogic.financebl.stub.AccountBlImpl_stub;
+import nju.edu.express.businesslogic.financebl.stub.BalanceBlImpl_stub;
+import nju.edu.express.businesslogic.financebl.stub.BusinessConBlImpl_stub;
+import nju.edu.express.businesslogic.financebl.stub.PaymentBlImpl_stub;
+import nju.edu.express.businesslogic.financebl.stub.ProfitBlImpl_stub;
+import nju.edu.express.businesslogic.managerbl.stub.ConstBlImpl_stub;
+import nju.edu.express.businesslogic.managerbl.stub.DepartmentBlImpl_stub;
+import nju.edu.express.businesslogic.managerbl.stub.SalaryBlImpl_stub;
+import nju.edu.express.businesslogic.managerbl.stub.StuffBlImpl_stub;
+import nju.edu.express.businesslogic.transiterbl.stub.DispatchBlImpl_stub;
+import nju.edu.express.businesslogic.transiterbl.stub.OutArrivalBlImpl_stub;
 import nju.edu.express.financeblservice.AccountBlService;
 import nju.edu.express.financeblservice.BalanceBlService;
 import nju.edu.express.financeblservice.BusinessConBlService;
 import nju.edu.express.financeblservice.PaymentBlService;
 import nju.edu.express.financeblservice.ProfitBlService;
-import nju.edu.express.mainui.MainFrame;
-import nju.edu.express.managerbl.stub.ConstBlImpl_stub;
-import nju.edu.express.managerbl.stub.DepartmentBlImpl_stub;
-import nju.edu.express.managerbl.stub.SalaryBlImpl_stub;
-import nju.edu.express.managerbl.stub.StuffBlImpl_stub;
 import nju.edu.express.managerblservice.ConstBlService;
 import nju.edu.express.managerblservice.DepartmentBlService;
 import nju.edu.express.managerblservice.SalaryBlService;
 import nju.edu.express.managerblservice.StuffBlService;
-import nju.edu.express.transiterbl.stub.DispatchBlImpl_stub;
-import nju.edu.express.transiterbl.stub.OutArrivalBlImpl_stub;
+import nju.edu.express.presentation.mainui.MainFrame;
 import nju.edu.express.transiterblservice.DispatchBlService;
 import nju.edu.express.transiterblservice.OutArrivalBlService;
 import nju.edu.express.transiterblservice.OutTransBlService;
@@ -119,17 +119,17 @@ public class Main_driver {
 	/**
 	 * 常量管理--修改常量
 	 */
-	ConstBlService Const;
-	ConstVO[] constVO;
-
-	public void updateConst() {
-		constVO = new ConstVO[2];
-		constVO[0] = new ConstVO("车辆");
-		constVO[1] = new ConstVO("人员");
-		Const = new ConstBlImpl_stub();
-		System.out.println("----------常量管理----------");
-		Const.endConst(constVO);
-	}
+//	ConstBlService Const;
+//	ConstVO[] constVO;
+//
+//	public void updateConst() {
+//		constVO = new ConstVO[2];
+//		constVO[0] = new ConstVO("车辆");
+//		constVO[1] = new ConstVO("人员");
+//		Const = new ConstBlImpl_stub();
+//		System.out.println("----------常量管理----------");
+//		Const.endConst(constVO);
+//	}
 
 	/**
 	 * 工资管理--获得详细工资信息

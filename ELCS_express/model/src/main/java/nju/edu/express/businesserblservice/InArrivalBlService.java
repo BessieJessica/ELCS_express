@@ -12,5 +12,12 @@ public interface InArrivalBlService {
 	/**
 	 * 根据inArrivalID获得相应到达单信息
 	 */
-	public InArrivalVO getInArrival (String inArrivalID);
+	public InArrivalVO getInArrival(String inArrivalID);
+	
+	/**
+	 * 添加新的到达单
+	 * @param inArrivalVO
+	 * @return
+	 */
+	public boolean addInArrival(InArrivalVO inArrivalVO);
 }

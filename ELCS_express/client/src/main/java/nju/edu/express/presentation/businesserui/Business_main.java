@@ -4,6 +4,14 @@ import javax.swing.JPanel;
 
 public class Business_main extends JPanel {
 
+	public Business_main() {
+		init();
+	}
+	
+	private void init() {
+		
+	}
+
 	/**
 	 * 获得车辆列表，显示CarListPanel
 	 */

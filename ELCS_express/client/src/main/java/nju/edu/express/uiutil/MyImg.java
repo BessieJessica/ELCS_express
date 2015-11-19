@@ -10,6 +10,7 @@ public class MyImg {
 	final static String ImgDir = "resources/";
 	final static String MainPanelDir = "mainpanel/";
 	final static String ExpressPanelDir = "expresspanel/";
+	final static String BusinessPanelDir = "businesspanel/";
 
 	//退出按钮
 	public static int EXIT = 1;

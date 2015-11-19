@@ -43,38 +43,38 @@ public class MainPanel extends JPanel implements Runnable {
 		// 退出键建立
 		exitButton = new ClearButton(MyImg.EXIT, 61, 47);
 		exitButton.setBounds(737, 492, 61, 47);
-		this.add(exitButton);
+		add(exitButton);
 
 		// 登录键建立
 		loginButton = new ClearButton(MyImg.LOGIN, 64, 50);
 		loginButton.setBounds(737, 431, 64, 50);
-		this.add(loginButton);
+		add(loginButton);
 
 		// 查询物流信息键建立
 		queryButton = new ClearButton(MyImg.QUERY, 63, 50);
 		queryButton.setBounds(589, 436, 63, 50);
-		this.add(queryButton);
+		add(queryButton);
 
 		// 查询框建立
 		logisticsInfo = new FrameTextField(571, 45);
 		logisticsInfo.setBounds(74, 372, 571, 45);
-		this.add(logisticsInfo);
+		add(logisticsInfo);
 
 		// 查询错误信息建立
 		errInfo = new ClearLabel("");
 		errInfo.setBounds(74, 418, 500, 30);
-		this.add(errInfo);
+		add(errInfo);
 
 		// 物流信息查询界面建立
 		logisticsPanel = new LogisticsPanel();
-		this.add(logisticsPanel);
+		add(logisticsPanel);
 
 		//登录界面建立
 		signinPanel = new SigninPanel();
-		this.add(signinPanel);
+		add(signinPanel);
 		
 		// 设置绝对布局
-		this.setLayout(null);
+		setLayout(null);
 
 	}
 

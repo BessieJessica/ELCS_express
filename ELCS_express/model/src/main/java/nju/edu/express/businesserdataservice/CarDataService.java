@@ -17,15 +17,15 @@ public interface CarDataService {
 	/**
 	 * 增加一个持久化对象
 	 */
-	public void insertCar(CarPO po);
+	public boolean insertCar(CarPO po);
 	
 	/**
 	 * 删除一个持久化对象
 	 */
-	public void deleteCar(String CarID);
+	public boolean deleteCar(String CarID);
 	
 	/**
 	 * 更改一个持久化对象
 	 */
-	public void updateCar(CarPO po);
+	public boolean updateCar(CarPO po);
 }

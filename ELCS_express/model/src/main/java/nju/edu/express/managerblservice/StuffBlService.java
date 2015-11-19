@@ -12,10 +12,10 @@ public interface StuffBlService {
 	/**
 	 * 新增员工信息
 	 */
-	public void addStuff(StuffVO vo);
+	public boolean addStuff(StuffVO vo);
 	
 	/**
 	 * 根据stuffID删除相应的员工信息
 	 */
-	public void delStuff(String[] stuffID);
+	public boolean delStuff(String[] stuffID);
 }

@@ -12,5 +12,5 @@ public interface OrderDataService {
 	/**
 	 * 增加一个持久化对象
 	 */
-	public void insertOrder(String OrderID);
+	public boolean insertOrder(String OrderID);
 }

@@ -3,7 +3,7 @@ package nju.edu.express.financedata;
 import nju.edu.express.PO.AccountPO;
 import nju.edu.express.financedataservice.AccountDataService;
 
-public class AccountDataImpl implements AccountDataService{
+public class AccountDataImpl implements AccountDataService {
 
 	@Override
 	public AccountPO[] getAccountList() {
@@ -18,21 +18,21 @@ public class AccountDataImpl implements AccountDataService{
 	}
 
 	@Override
-	public void insertAccount(AccountPO po) {
+	public boolean insertAccount(AccountPO po) {
 		// TODO Auto-generated method stub
-		
+		return false;
 	}
 
 	@Override
-	public void deleteAccount(String[] accountID) {
+	public boolean deleteAccount(String[] accountID) {
 		// TODO Auto-generated method stub
-		
+		return false;
 	}
 
 	@Override
-	public void updateAccount(AccountPO po) {
+	public boolean updateAccount(AccountPO po) {
 		// TODO Auto-generated method stub
-		
+		return false;
 	}
 
 }

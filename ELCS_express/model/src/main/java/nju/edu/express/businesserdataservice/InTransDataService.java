@@ -17,6 +17,6 @@ public interface InTransDataService {
 	/**
 	 * 增加一个持久化对象
 	 */
-	public void insertInTrans(InTransPO po);
+	public boolean insertInTrans(InTransPO po);
 	
 }

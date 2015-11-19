@@ -17,5 +17,5 @@ public interface OutArrivalBlService {
 	/**
 	 * 新增中转中心到达单信息
 	 */
-	public void addOutArrival(OutArrivalVO vo);
+	public boolean addOutArrival(OutArrivalVO vo);
 }

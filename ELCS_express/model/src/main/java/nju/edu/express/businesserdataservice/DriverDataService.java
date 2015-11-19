@@ -17,16 +17,16 @@ public interface DriverDataService {
 	/**
 	 * 增加一个持久化对象
 	 */
-	public void insertDriver(DriverPO po);
+	public boolean insertDriver(DriverPO po);
 	
 	/**
 	 * 删除一个持久化对象
 	 */
-	public void deleteDriver(String DriverID);
+	public boolean deleteDriver(String DriverID);
 	
 	/**
 	 * 更改一个持久化对象
 	 */
-	public void updateDriver(DriverPO po);
+	public boolean updateDriver(DriverPO po);
 }
 

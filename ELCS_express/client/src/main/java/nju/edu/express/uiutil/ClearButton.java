@@ -149,6 +149,15 @@ public class ClearButton extends JButton implements MouseListener {
 		
 		if(info == MyImg.REGISTER_ORDER){
 			if(condition.equals("pressed"))
+				img = MyImg.registerOrderButton_pressed;
+			if(condition.equals("entered"))
+				img = MyImg.registerOrderButton_entered;
+			if(condition.equals("normal"))
+				img = MyImg.registerOrderButton_normal;
+		}
+		
+		if(info == MyImg.END_ORDER){
+			if(condition.equals("pressed"))
 				img = MyImg.endOrderButton_pressed;
 			if(condition.equals("entered"))
 				img = MyImg.endOrderButton_entered;
@@ -156,6 +165,14 @@ public class ClearButton extends JButton implements MouseListener {
 				img = MyImg.endOrderButton_normal;
 		}
 		
+		if(info == MyImg.UNREGISTER){
+			if(condition.equals("pressed"))
+				img = MyImg.unRegisterButton_pressed;
+			if(condition.equals("entered"))
+				img = MyImg.unRegisterButton_entered;
+			if(condition.equals("normal"))
+				img = MyImg.unRegisterButton_normal;
+		}
 	}
 
 }

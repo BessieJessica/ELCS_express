@@ -15,9 +15,9 @@ public class SalaryBlImpl implements SalaryBlService{
 		return null;
 	}
 
-	public void endSalary(SalaryVO vo) {
+	public boolean endSalary(SalaryVO vo) {
 		// TODO Auto-generated method stub
-		
+		return false;
 	}
 
 }

@@ -17,7 +17,7 @@ public interface WareOutDataService {
 	/**
 	 * 增加一个持久化对象
 	 */
-	public void insertWareOut(WareOutPO po);
+	public boolean insertWareOut(WareOutPO po);
 	
 	
 }

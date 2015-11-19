@@ -75,7 +75,7 @@ public class MainFrame extends JFrame implements Runnable {
 			t = new Thread(this);
 			threadCount = 2;
 			t.start();
-			
+
 		} else if (access == StuffAccess.BUSINESSER) {
 
 		} else if (access == StuffAccess.TRANSITER) {
@@ -94,11 +94,11 @@ public class MainFrame extends JFrame implements Runnable {
 
 	@Override
 	public void run() {
-		//关闭动画
-		if(threadCount == 1){
-			int width = 0,height = 0;
+		// 关闭动画
+		if (threadCount == 1) {
+			int width = 0, height = 0;
 			while (width < 145) {
-				mainPanel.setLocation(width*8+2, 0);
+				mainPanel.setLocation(width * 8 + 2, 0);
 				width++;
 				try {
 					t.sleep(1);
@@ -108,9 +108,9 @@ public class MainFrame extends JFrame implements Runnable {
 				}
 				this.repaint();
 			}
-			
-			while(height<95){
-				mainPanel.setLocation(width*8+2,height*8);
+
+			while (height < 95) {
+				mainPanel.setLocation(width * 8 + 2, height * 8);
 				height++;
 				try {
 					t.sleep(1);
@@ -120,16 +120,16 @@ public class MainFrame extends JFrame implements Runnable {
 				}
 				this.repaint();
 			}
-			
+
 			System.exit(0);
 		}
-		
-		//快递员界面动画
-		else if(threadCount==2){
-			
+
+		// 快递员界面动画
+		else if (threadCount == 2) {
+
 			int width = 0;
 			while (width <= 145) {
-				mainPanel.setLocation(-width*8-9, 0);
+				mainPanel.setLocation(-width * 8 - 9, 0);
 				width++;
 				try {
 					t.sleep(1);
@@ -142,10 +142,10 @@ public class MainFrame extends JFrame implements Runnable {
 			this.remove(mainPanel);
 			this.add(expressPanel);
 			this.setVisible(true);
-			
+
 			width = 0;
 			while (width <= 145) {
-				expressPanel.setLocation(-1169+width*8+9, 0);
+				expressPanel.setLocation(-1169 + width * 8 + 9, 0);
 				width++;
 				try {
 					t.sleep(1);
@@ -156,9 +156,7 @@ public class MainFrame extends JFrame implements Runnable {
 				this.repaint();
 			}
 
-
-			
 		}
-		
+
 	}
 }

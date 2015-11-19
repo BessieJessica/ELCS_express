@@ -7,6 +7,8 @@ import java.rmi.registry.LocateRegistry;
 
 import nju.edu.express.admindata.UserDataImpl;
 import nju.edu.express.admindataservice.UserDataService;
+import nju.edu.express.expressdata.ExpressDataImpl;
+import nju.edu.express.expressdataservice.ExpressDataService;
 import nju.edu.express.logisticsdata.LogisticsDataImpl;
 import nju.edu.express.logisticsdataservice.LogisticsDataService;
 
@@ -19,12 +21,14 @@ public class RMIServer {
 		try {
 			LocateRegistry.createRegistry(port);
 			
-			LogisticsDataService logistics = new LogisticsDataImpl();
-			Naming.rebind(host+"LogisticsService",logistics);
+			LogisticsDataService logisticsData = new LogisticsDataImpl();
+			Naming.rebind(host+"LogisticsService",logisticsData);
 
 			UserDataService userData = new UserDataImpl();
 			Naming.rebind(host+"UserService",userData);
 			
+			ExpressDataService expressData = new ExpressDataImpl();
+			Naming.rebind(host+"ExpressService", expressData);
 			
 			
 		} catch (RemoteException | MalformedURLException e) {

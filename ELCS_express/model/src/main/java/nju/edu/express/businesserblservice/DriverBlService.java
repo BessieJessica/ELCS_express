@@ -17,15 +17,15 @@ public interface DriverBlService {
 	/**
 	 * 添加司机信息
 	 */
-	public void addDriver(DriverVO vo);
+	public boolean addDriver(DriverVO vo);
 	
 	/**
 	 * 删除司机信息
 	 */
-	public void delDriver(String driverID);
+	public boolean delDriver(String driverID);
 	
 	/**
 	 * 更新修改过后的司机信息
 	 */
-	public void endDriver(DriverVO vo);
+	public boolean endDriver(DriverVO vo);
 }

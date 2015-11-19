@@ -12,5 +12,5 @@ public interface BalanceBlService {
 	/**
 	 * 通过balanceID来更新相应信息
 	 */
-	public void endBalance(double totalIncome);
+	public boolean endBalance(double totalIncome);
 }

@@ -17,6 +17,6 @@ public interface OutTransBlService {
 	/**
 	 * 新增中转中心装车单信息
 	 */
-	public void addOutTrans(OutTransVO vo);
+	public boolean addOutTrans(OutTransVO vo);
 	
 }

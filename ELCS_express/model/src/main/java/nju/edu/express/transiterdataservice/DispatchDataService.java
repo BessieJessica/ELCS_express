@@ -17,5 +17,5 @@ public interface DispatchDataService {
 	/**
 	 * 增加一个持久化对象
 	 */
-	public void insertDispatch(DispatchPO po);
+	public boolean insertDispatch(DispatchPO po);
 }

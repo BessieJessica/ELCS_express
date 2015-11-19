@@ -17,6 +17,6 @@ public interface PaymentBlService {
 	/**
 	 * 新增付款单信息
 	 */
-	public void addPayment(PaymentVO vo);
+	public boolean addPayment(PaymentVO vo);
 	
 }

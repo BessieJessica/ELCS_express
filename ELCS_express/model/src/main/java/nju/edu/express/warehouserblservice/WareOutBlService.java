@@ -17,5 +17,5 @@ public interface WareOutBlService {
 	/**
 	 * 新增出库单信息
 	 */
-	public void addWareOut(WareOutVO vo);
+	public boolean addWareOut(WareOutVO vo);
 }

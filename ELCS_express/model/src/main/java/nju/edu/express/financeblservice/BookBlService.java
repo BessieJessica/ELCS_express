@@ -17,5 +17,5 @@ public interface BookBlService {
 	/**
 	 * 新增公司账户
 	 */
-	public void addBook(BookVO vo);
+	public boolean addBook(BookVO vo);
 }

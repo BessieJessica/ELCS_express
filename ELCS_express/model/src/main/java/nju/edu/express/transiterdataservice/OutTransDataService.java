@@ -17,5 +17,5 @@ public interface OutTransDataService {
 	/**
 	 * 增加一个持久化对象
 	 */
-	public void insertOutTrans(OutTransPO po);
+	public boolean insertOutTrans(OutTransPO po);
 }

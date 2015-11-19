@@ -8,6 +8,8 @@ import java.awt.event.MouseListener;
 
 import javax.swing.JLabel;
 import javax.swing.JPanel;
+import javax.swing.text.Element;
+import javax.swing.text.IconView;
 
 import nju.edu.express.VO.UserVO;
 import nju.edu.express.uiutil.ClearButton;
@@ -16,7 +18,7 @@ import nju.edu.express.uiutil.MyImg;
 public class Express_main extends JPanel implements MouseListener{
 
 	ClearButton registerOrderButton, endOrderButton, unregisterButton;
-	JLabel nameLabel, idLabel, businessLabel, cityLabel, accessLabel, LogoLabel;
+	JLabel nameLabel, idLabel, businessLabel, cityLabel, accessLabel, logoLabel;
 	String name, id, business, city, access;
 	
 	public Express_main(UserVO vo){
@@ -60,6 +62,23 @@ public class Express_main extends JPanel implements MouseListener{
 		businessLabel.setBounds(100, 250, 500, 50);
 		businessLabel.setFont(new Font("微软雅黑",Font.PLAIN,25));
 		add(businessLabel);
+		
+		cityLabel = new JLabel(city);
+		cityLabel.setBounds(100, 300, 200, 50);
+		cityLabel.setFont(new Font("微软雅黑",Font.PLAIN,25));
+		add(cityLabel);
+		
+		accessLabel = new JLabel(access);
+		accessLabel.setBounds(100,350,200,50);
+		accessLabel.setFont(new Font("微软雅黑",Font.PLAIN,25));
+		add(accessLabel);
+		
+		logoLabel = new JLabel(MyImg.expressLogo);
+		logoLabel.setBounds(100, 400, 200, 200);
+		add(logoLabel);
+		
+		
+		
 	}
 	
 	

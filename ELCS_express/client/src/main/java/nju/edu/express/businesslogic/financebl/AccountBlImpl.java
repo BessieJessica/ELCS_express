@@ -18,15 +18,17 @@ public class AccountBlImpl implements AccountBlService{
 	}
 
 	@Override
-	public void addAccount(AccountVO vo) {
+	public boolean addAccount(AccountVO vo) {
 		// TODO Auto-generated method stub
-		
+		return false;
 	}
 
 	@Override
-	public void delAccount(String[] accountID) {
+	public boolean delAccount(String[] accountID) {
 		// TODO Auto-generated method stub
-		
+		return false;
 	}
+
+
 
 }

@@ -12,11 +12,11 @@ public interface DepartmentDataService {
 	/**
 	 * 在数据库中插入DepartmentPO对象
 	 */
-	public void insertDepartment(DepartmentPO po);
+	public boolean insertDepartment(DepartmentPO po);
 	
 	/**
 	 * 在数据库中删除DepartmentPO对象
 	 */
-	public void deleteDepartment(String[] departmentID);
+	public boolean deleteDepartment(String[] departmentID);
 	
 }

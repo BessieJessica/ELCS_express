@@ -17,15 +17,15 @@ public interface CarBlService {
 	/**
 	 * 添加车辆信息
 	 */
-	public void addCar(CarVO vo);
+	public boolean addCar(CarVO vo);
 	
 	/**
 	 * 删除车辆信息
 	 */
-	public void delCar(String carID);
+	public boolean delCar(String carID);
 	
 	/**
 	 * 更新修改过后的车辆信息
 	 */
-	public void endCar(CarVO vo);
+	public boolean endCar(CarVO vo);
 }

@@ -12,9 +12,9 @@ public class BalanceBlImpl implements BalanceBlService{
 	}
 
 	@Override
-	public void endBalance(double totalIncome) {
+	public boolean endBalance(double totalIncome) {
 		// TODO Auto-generated method stub
-		
+		return false;
 	}
 
 }

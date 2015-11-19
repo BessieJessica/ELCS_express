@@ -17,6 +17,6 @@ public interface SalaryDataService {
 	/**
 	 * 更新SalaryPO
 	 */
-	public void updateSalary(SalaryPO po);
+	public boolean updateSalary(SalaryPO po);
 	
 }

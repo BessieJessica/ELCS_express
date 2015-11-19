@@ -17,5 +17,5 @@ public interface WareInBlService {
 	/**
 	 * 新增入库单信息
 	 */
-	public void addWareIn(WareInVO vo);
+	public boolean addWareIn(WareInVO vo);
 }

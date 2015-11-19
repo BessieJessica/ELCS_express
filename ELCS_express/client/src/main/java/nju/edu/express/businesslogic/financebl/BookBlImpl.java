@@ -18,9 +18,11 @@ public class BookBlImpl implements BookBlService{
 	}
 
 	@Override
-	public void addBook(BookVO vo) {
+	public boolean addBook(BookVO vo) {
 		// TODO Auto-generated method stub
-		
+		return false;
 	}
+
+
 
 }

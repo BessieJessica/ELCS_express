@@ -18,9 +18,11 @@ public class PaymentBlImpl implements PaymentBlService{
 	}
 
 	@Override
-	public void addPayment(PaymentVO vo) {
+	public boolean addPayment(PaymentVO vo) {
 		// TODO Auto-generated method stub
-		
+		return false;
 	}
+
+
 
 }

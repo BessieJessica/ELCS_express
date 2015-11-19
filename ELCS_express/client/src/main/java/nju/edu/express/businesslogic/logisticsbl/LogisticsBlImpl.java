@@ -23,22 +23,21 @@ public class LogisticsBlImpl implements LogisticsBlService {
 				logistics = (LogisticsDataService) Naming
 						.lookup("rmi://127.0.0.1:6600/LogisticsService");
 				logisticsPO = logistics.getLogistics(orderID);
-				if (logisticsPO == null)// 如果在数据库中不存在
-					return null;
-				else
-					// 在数据库中存在数据
-					transform(logisticsPO);
-				return logisticsVO;
 			} catch (MalformedURLException | RemoteException
 					| NotBoundException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
+			if (logisticsPO == null)// 如果在数据库中不存在
+				return null;
+			else
+				// 在数据库中存在数据
+				transform(logisticsPO);
+			return logisticsVO;
 
 		} else
 			// 格式不符合
 			return null;
-		return null;
 
 	}
 

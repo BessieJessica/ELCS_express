@@ -17,6 +17,6 @@ public interface InArrivalDataService {
 	/**
 	 * 增加一个持久化对象
 	 */
-	public void insertInArrival(InArrivalPO po);
+	public boolean insertInArrival(InArrivalPO po);
 	
 }

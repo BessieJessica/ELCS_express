@@ -17,5 +17,5 @@ public interface PaymentDataService {
 	/**
 	 * 在数据库中插入新建的付款单
 	 */
-	public void insert(PaymentPO po);
+	public boolean insert(PaymentPO po);
 }

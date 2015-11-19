@@ -5,19 +5,24 @@ import nju.edu.express.managerblservice.StuffBlService;
 
 public class StuffBlImpl implements StuffBlService{
 
+	@Override
 	public StuffVO[] getStuffList() {
 		// TODO Auto-generated method stub
 		return null;
 	}
 
-	public void addStuff(StuffVO vo) {
+	@Override
+	public boolean addStuff(StuffVO vo) {
 		// TODO Auto-generated method stub
-		
+		return false;
 	}
 
-	public void delStuff(String[] stuffID) {
+	@Override
+	public boolean delStuff(String[] stuffID) {
 		// TODO Auto-generated method stub
-		
+		return false;
 	}
+
+
 
 }

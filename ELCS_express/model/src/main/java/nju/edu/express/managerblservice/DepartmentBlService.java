@@ -12,10 +12,10 @@ public interface DepartmentBlService {
 	/**
 	 * 新增机构信息
 	 */
-	public void addDepartment(DepartmentVO vo);
+	public boolean addDepartment(DepartmentVO vo);
 	
 	/**
 	 * 根据departmentID删除相应的机构信息
 	 */
-	public void delDepartment(String[] departmentID);
+	public boolean delDepartment(String[] departmentID);
 }

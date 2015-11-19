@@ -17,6 +17,6 @@ public interface DispatchBlService {
 	/**
 	 * 新增中转单信息
 	 */
-	public void addDispatch (DispatchVO vo);
+	public boolean addDispatch (DispatchVO vo);
 	
 }

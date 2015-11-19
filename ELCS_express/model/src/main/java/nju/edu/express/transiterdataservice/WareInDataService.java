@@ -17,7 +17,7 @@ public interface WareInDataService {
 	/**
 	 * 增加一个持久化对象
 	 */
-	public void insertWareIn(WareInPO po);
+	public boolean insertWareIn(WareInPO po);
 	
 	
 }

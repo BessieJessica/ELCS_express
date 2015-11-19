@@ -12,6 +12,6 @@ public interface TableBlService {
 	/**
 	 * 根据tableID更新单据审批状态为“已审批”
 	 */
-	public void updateTable(String tableID);
+	public boolean updateTable(String tableID);
 	
 }

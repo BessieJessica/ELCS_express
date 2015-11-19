@@ -5,5 +5,5 @@ public interface WareDataService {
 	/**
 	 * 向WareData中添加OrderID
 	 */
-	public void insertOrder(String orderID);
+	public boolean insertOrder(String orderID);
 }

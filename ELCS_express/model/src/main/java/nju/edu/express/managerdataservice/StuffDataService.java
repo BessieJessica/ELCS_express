@@ -17,11 +17,11 @@ public interface StuffDataService {
 	/**
 	 * 在数据库中插入StuffPO对象
 	 */
-	public void insertStuff (StuffPO po);
+	public boolean insertStuff (StuffPO po);
 	
 	/**
 	 * 在数据库中删除StuffPO对象
 	 */
-	public void deleteStuff(String stuffID);
+	public boolean deleteStuff(String stuffID);
 	
 }

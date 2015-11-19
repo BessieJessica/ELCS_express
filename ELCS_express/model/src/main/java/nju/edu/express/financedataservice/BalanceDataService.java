@@ -17,7 +17,7 @@ public interface BalanceDataService {
 	/**
 	 * 在数据库中更新银行账户余额
 	 */
-	public void updateAccount(double totalIncome);
+	public boolean updateAccount(double totalIncome);
 	
 
 }

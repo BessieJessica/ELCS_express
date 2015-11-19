@@ -5,19 +5,24 @@ import nju.edu.express.managerblservice.DepartmentBlService;
 
 public class DepartmentBlImpl implements DepartmentBlService{
 
+	@Override
 	public DepartmentVO[] getDepartmentList() {
 		// TODO Auto-generated method stub
 		return null;
 	}
 
-	public void addDepartment(DepartmentVO vo) {
+	@Override
+	public boolean addDepartment(DepartmentVO vo) {
 		// TODO Auto-generated method stub
-		
+		return false;
 	}
 
-	public void delDepartment(String[] departmentID) {
+	@Override
+	public boolean delDepartment(String[] departmentID) {
 		// TODO Auto-generated method stub
-		
+		return false;
 	}
+
+
 
 }

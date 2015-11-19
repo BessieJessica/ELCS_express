@@ -73,7 +73,5 @@ public class MyImg {
 	public static Image unRegisterButton_pressed = new ImageIcon(ImgDir+ExpressPanelDir+"unregisterButton_pressed.png").getImage();
 	
 	//快递员头像
-	public static Image expressLogo = new ImageIcon(ImgDir+ExpressPanelDir+"expressLogo.png").getImage();
-
-
+	public static ImageIcon expressLogo = new ImageIcon(ImgDir+ExpressPanelDir+"expressLogo.png");
 }

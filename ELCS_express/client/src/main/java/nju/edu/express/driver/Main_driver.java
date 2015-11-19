@@ -1,54 +1,6 @@
 package nju.edu.express.driver;
 
-import nju.edu.express.VO.BalanceVO;
-import nju.edu.express.VO.BusinessConVO;
-import nju.edu.express.VO.CarVO;
-import nju.edu.express.VO.ConstVO;
-import nju.edu.express.VO.DispatchVO;
-import nju.edu.express.VO.DistributeVO;
-import nju.edu.express.VO.DriverVO;
-import nju.edu.express.VO.InArrivalVO;
-import nju.edu.express.VO.InTransVO;
-import nju.edu.express.VO.OutArrivalVO;
-import nju.edu.express.VO.OutTransVO;
-import nju.edu.express.VO.PaymentVO;
-import nju.edu.express.VO.ProfitVO;
-import nju.edu.express.VO.SalaryVO;
-import nju.edu.express.VO.StuffVO;
-import nju.edu.express.businesserblservice.CarBlService;
-import nju.edu.express.businesserblservice.DistributeBlService;
-import nju.edu.express.businesserblservice.DriverBlService;
-import nju.edu.express.businesserblservice.InArrivalBlService;
-import nju.edu.express.businesserblservice.InTransBlService;
-import nju.edu.express.businesslogic.businessbl.stub.CarBlImpl_stub;
-import nju.edu.express.businesslogic.businessbl.stub.DistributeBlImpl_stub;
-import nju.edu.express.businesslogic.businessbl.stub.DriverBlImpl_stub;
-import nju.edu.express.businesslogic.businessbl.stub.InArrivalBlImpl_stub;
-import nju.edu.express.businesslogic.businessbl.stub.InTransBlImpl_stub;
-import nju.edu.express.businesslogic.financebl.stub.AccountBlImpl_stub;
-import nju.edu.express.businesslogic.financebl.stub.BalanceBlImpl_stub;
-import nju.edu.express.businesslogic.financebl.stub.BusinessConBlImpl_stub;
-import nju.edu.express.businesslogic.financebl.stub.PaymentBlImpl_stub;
-import nju.edu.express.businesslogic.financebl.stub.ProfitBlImpl_stub;
-import nju.edu.express.businesslogic.managerbl.stub.ConstBlImpl_stub;
-import nju.edu.express.businesslogic.managerbl.stub.DepartmentBlImpl_stub;
-import nju.edu.express.businesslogic.managerbl.stub.SalaryBlImpl_stub;
-import nju.edu.express.businesslogic.managerbl.stub.StuffBlImpl_stub;
-import nju.edu.express.businesslogic.transiterbl.stub.DispatchBlImpl_stub;
-import nju.edu.express.businesslogic.transiterbl.stub.OutArrivalBlImpl_stub;
-import nju.edu.express.financeblservice.AccountBlService;
-import nju.edu.express.financeblservice.BalanceBlService;
-import nju.edu.express.financeblservice.BusinessConBlService;
-import nju.edu.express.financeblservice.PaymentBlService;
-import nju.edu.express.financeblservice.ProfitBlService;
-import nju.edu.express.managerblservice.ConstBlService;
-import nju.edu.express.managerblservice.DepartmentBlService;
-import nju.edu.express.managerblservice.SalaryBlService;
-import nju.edu.express.managerblservice.StuffBlService;
 import nju.edu.express.presentation.mainui.MainFrame;
-import nju.edu.express.transiterblservice.DispatchBlService;
-import nju.edu.express.transiterblservice.OutArrivalBlService;
-import nju.edu.express.transiterblservice.OutTransBlService;
 
 public class Main_driver {
 
@@ -90,7 +42,7 @@ public class Main_driver {
 
 	/**
 	 * 人员管理--添加人员
-	 */
+	 *//*
 	StuffBlService stuff;
 	StuffVO stuffVO;
 
@@ -101,9 +53,9 @@ public class Main_driver {
 		stuff.addStuff(stuffVO);
 	}
 
-	/**
+	*//**
 	 * 部门管理--删除部门
-	 */
+	 *//*
 	DepartmentBlService department;
 	String[] departmentID;
 
@@ -116,9 +68,9 @@ public class Main_driver {
 		department.delDepartment(departmentID);
 	}
 
-	/**
+	*//**
 	 * 常量管理--修改常量
-	 */
+	 *//*
 //	ConstBlService Const;
 //	ConstVO[] constVO;
 //
@@ -131,9 +83,9 @@ public class Main_driver {
 //		Const.endConst(constVO);
 //	}
 
-	/**
+	*//**
 	 * 工资管理--获得详细工资信息
-	 */
+	 *//*
 	SalaryBlService salary;
 	SalaryVO salaryVO;
 
@@ -144,9 +96,9 @@ public class Main_driver {
 		System.out.println("1" + " 号员工 " + " 工资为 " + salaryVO.getSalary());
 	}
 
-	/**
+	*//**
 	 * 银行账户--删除银行账户
-	 */
+	 *//*
 	AccountBlService account;
 	String[] delIDs = { "1号银行账户", "2号银行账户" };
 
@@ -156,9 +108,9 @@ public class Main_driver {
 		account.delAccount(delIDs);
 	}
 
-	/**
+	*//**
 	 * 收款单结算--更新银行账户
-	 */
+	 *//*
 	BalanceBlService balance;
 
 	public void balance() {
@@ -166,9 +118,9 @@ public class Main_driver {
 		balance.endBalance(12345.0);
 	}
 
-	/**
+	*//**
 	 * 查看经营情况表
-	 */
+	 *//*
 	BusinessConBlService businessCon;
 	BusinessConVO businessVO;
 
@@ -179,9 +131,9 @@ public class Main_driver {
 		System.out.println(businessVO.getId() + "经验情况表已载入");
 	}
 
-	/**
+	*//**
 	 * 查看成本收益表
-	 */
+	 *//*
 	ProfitBlService profit;
 	ProfitVO vo;
 
@@ -192,9 +144,9 @@ public class Main_driver {
 		System.out.println("成本收益表 " + vo.getId() + " 号已载入");
 	}
 
-	/**
+	*//**
 	 * 查看付款单
-	 */
+	 *//*
 	PaymentBlService payment;
 	PaymentVO vo1;
 
@@ -235,9 +187,9 @@ public class Main_driver {
 	OutTransBlService outtrans;
 	OutTransVO[] outtransvolist;
 
-	/**
+	*//**
 	 * 获得中转中心装车单,有点小问题
-	 */
+	 *//*
 	// public void getOutTransList(){
 	// outtrans=new OutTransBlImpl_stub();
 	// outtransvolist=outtrans.getOutTransList(BusinessID);
@@ -245,9 +197,9 @@ public class Main_driver {
 	// System.out.println(outtransvolist[0].getId());
 	// }
 	//
-	/**
+	*//**
 	 * 获得中转中心到达单
-	 */
+	 *//*
 	public void getOutArrivalList() {
 		outarrival = new OutArrivalBlImpl_stub();
 		outarrivalvolist = outarrival.getOutArrivalList("10000");
@@ -256,9 +208,9 @@ public class Main_driver {
 
 	}
 
-	/**
+	*//**
 	 * 获得中转中心中转单
-	 */
+	 *//*
 	public void getDispatchList() {
 		dispatch = new DispatchBlImpl_stub();
 		dispatchvolist = dispatch.getDispatchList("10000");
@@ -266,9 +218,9 @@ public class Main_driver {
 		System.out.println(dispatchvolist[0].getID());
 	}
 
-	/**
+	*//**
 	 * 获得营业厅装车单
-	 */
+	 *//*
 	public void getInTransList() {
 		intrans = new InTransBlImpl_stub();
 		intransvolist = intrans.getInTransList("10000");
@@ -276,9 +228,9 @@ public class Main_driver {
 		System.out.println(intransvolist[0].getID());
 	}
 
-	/**
+	*//**
 	 * 获得营业厅到达单列表
-	 */
+	 *//*
 	public void getInArrivalList() {
 		inarrival = new InArrivalBlImpl_stub();
 		inarrivalvolist = inarrival.getInArrivalList("10000");
@@ -286,9 +238,9 @@ public class Main_driver {
 		System.out.println(inarrivalvolist[0].getID());
 	}
 
-	/**
+	*//**
 	 * 获得收款单列表
-	 */
+	 *//*
 	public void getDistributeList() {
 		distribute = new DistributeBlImpl_stub();
 		distributevolist = distribute.getDistributeList("1");
@@ -296,9 +248,9 @@ public class Main_driver {
 		System.out.println(distributevolist[0].getID());
 	}
 
-	/**
+	*//**
 	 * 获得司机列表
-	 */
+	 *//*
 	public void getDriverList() {
 		driver = new DriverBlImpl_stub();
 		drivervolist = driver.getDriverList("1");
@@ -306,16 +258,16 @@ public class Main_driver {
 		System.out.println(drivervolist[0].getID());
 	}
 
-	/**
+	*//**
 	 * 获得车辆列表
-	 */
+	 *//*
 	public void getCarList() {
 		car = new CarBlImpl_stub();
 		carvolist = car.getCarList("1");
 		System.out.println("---------------车辆信息id------------------");
 		System.out.println(carvolist[0].getID());
 
-	}
+	}*/
 
 	/**
 	 * 主函数运行驱动

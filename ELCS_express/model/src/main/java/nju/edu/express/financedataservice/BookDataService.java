@@ -17,5 +17,5 @@ public interface BookDataService {
 	/**
 	 * 在数据库中插入BookPO
 	 */
-	public void insert(BookPO po);
+	public boolean insert(BookPO po);
 }

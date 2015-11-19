@@ -17,5 +17,5 @@ public interface SalaryBlService {
 	/**
 	 * 更新工资内容信息
 	 */
-	public void endSalary(SalaryVO vo);
+	public boolean endSalary(SalaryVO vo);
 }

@@ -17,10 +17,10 @@ public interface AccountBlService {
 	/**
 	 * 添加银行账户
 	 */
-	public void addAccount(AccountVO vo);
+	public boolean addAccount(AccountVO vo);
 	
 	/**
 	 * 根据accountID删除银行账户
 	 */
-	public void delAccount(String[] accountID);
+	public boolean delAccount(String[] accountID);
 }

@@ -12,6 +12,6 @@ public interface TableDataService {
 	/**
 	 * 根据表单的ID更新TablePO
 	 */
-	public void updateTable(String[] tableID);
+	public boolean updateTable(String[] tableID);
 	
 }

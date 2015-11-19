@@ -17,5 +17,5 @@ public interface DistributeDataService {
 	/**
 	 * 增加一个持久化对象
 	 */
-	public void insertDistribute(DistributePO po);
+	public boolean insertDistribute(DistributePO po);
 }

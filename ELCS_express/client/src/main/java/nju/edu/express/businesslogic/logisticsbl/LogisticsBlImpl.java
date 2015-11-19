@@ -17,22 +17,27 @@ public class LogisticsBlImpl implements LogisticsBlService {
 	LogisticsPO[] logisticsPO;
 	LogisticsVO[] logisticsVO;
 
+	public LogisticsBlImpl() {
+		try {
+			logistics = (LogisticsDataService) Naming
+					.lookup("rmi://127.0.0.1:6600/LogisticsService");
+		} catch (MalformedURLException | RemoteException | NotBoundException e) {
+			e.printStackTrace();
+		}
+	}
+
 	public LogisticsVO[] getLogistics(String orderID) {
 		if (orderID.matches("\\d{10}")) {// 格式符合
 			try {
-				logistics = (LogisticsDataService) Naming
-						.lookup("rmi://127.0.0.1:6600/LogisticsService");
 				logisticsPO = logistics.getLogistics(orderID);
-			} catch (MalformedURLException | RemoteException
-					| NotBoundException e) {
-				// TODO Auto-generated catch block
+			} catch (RemoteException e) {
 				e.printStackTrace();
 			}
 			if (logisticsPO == null)// 如果在数据库中不存在
 				return null;
 			else
 				// 在数据库中存在数据
-				transform(logisticsPO);
+				transformP2V(logisticsPO);
 			return logisticsVO;
 
 		} else
@@ -41,7 +46,22 @@ public class LogisticsBlImpl implements LogisticsBlService {
 
 	}
 
-	private void transform(LogisticsPO[] po) {
+	@Override
+	public boolean insertLogistics(LogisticsVO logisticsVO) {
+		try {
+			return logistics.insertLogistics(transformV2P(logisticsVO));
+		} catch (RemoteException e) {
+			e.printStackTrace();
+		}
+		return false;
+	}
+
+	private LogisticsPO transformV2P(LogisticsVO logisticsVO2) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	private void transformP2V(LogisticsPO[] po) {
 		logisticsVO = new LogisticsVO[po.length];
 		for (int i = 0; i < po.length; i++) {
 			logisticsVO[i] = new LogisticsVO(po[i].getOrderID(),
@@ -49,9 +69,4 @@ public class LogisticsBlImpl implements LogisticsBlService {
 		}
 	}
 
-	@Override
-	public boolean insertLogistics(LogisticsVO logisticsVO) {
-		// TODO Auto-generated method stub
-		return false;
-	}
 }

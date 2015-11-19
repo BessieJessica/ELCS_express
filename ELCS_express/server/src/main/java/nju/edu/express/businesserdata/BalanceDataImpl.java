@@ -1,10 +1,18 @@
 package nju.edu.express.businesserdata;
 
+import java.rmi.RemoteException;
+import java.rmi.server.UnicastRemoteObject;
+
 import nju.edu.express.PO.BalancePO;
 import nju.edu.express.PO.OrderPO;
 import nju.edu.express.businesserdataservice.BalanceDataService;
 
-public class BalanceDataImpl implements BalanceDataService{
+public class BalanceDataImpl extends UnicastRemoteObject implements BalanceDataService{
+
+	public BalanceDataImpl() throws RemoteException {
+		super();
+		// TODO Auto-generated constructor stub
+	}
 
 	@Override
 	public void insertBalance(OrderPO orderPO) {
@@ -13,7 +21,7 @@ public class BalanceDataImpl implements BalanceDataService{
 	}
 
 	@Override
-	public BalancePO[] getBalanceList(String BusinessId, String date) {
+	public BalancePO[] getBalanceList(String businessID, String date) {
 		// TODO Auto-generated method stub
 		return null;
 	}

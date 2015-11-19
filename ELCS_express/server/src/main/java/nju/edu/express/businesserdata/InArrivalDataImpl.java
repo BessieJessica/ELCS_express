@@ -1,9 +1,17 @@
 package nju.edu.express.businesserdata;
 
+import java.rmi.RemoteException;
+import java.rmi.server.UnicastRemoteObject;
+
 import nju.edu.express.PO.InArrivalPO;
 import nju.edu.express.businesserdataservice.InArrivalDataService;
 
-public class InArrivalDataImpl implements InArrivalDataService {
+public class InArrivalDataImpl extends UnicastRemoteObject implements InArrivalDataService {
+
+	public InArrivalDataImpl() throws RemoteException {
+		super();
+		// TODO Auto-generated constructor stub
+	}
 
 	@Override
 	public InArrivalPO[] getInArrivalList(String bussinessID) {

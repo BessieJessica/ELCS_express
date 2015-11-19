@@ -105,30 +105,52 @@ public class MyImg {
 			+ ExpressPanelDir + "expressLogo.png");
 
 	// 装车单管理按钮
-	public static int Intrans = 8;
+	public static int INTRANS = 8;
 	public static Image intransButton_normal = new ImageIcon(ImgDir
-			+ BusinessPanelDir + "intransButton_normal").getImage();
+			+ BusinessPanelDir + "intransButton_normal.png").getImage();
 	public static Image intransButton_entered = new ImageIcon(ImgDir
-			+ BusinessPanelDir + "intransButton_entered").getImage();
+			+ BusinessPanelDir + "intransButton_entered.png").getImage();
 	public static Image intransButton_pressed = new ImageIcon(ImgDir
-			+ BusinessPanelDir + "intransButton_pressed").getImage();
+			+ BusinessPanelDir + "intransButton_pressed.png").getImage();
 
 	// 车辆管理按钮
 	public static int CAR_MANAGE = 9;
 	public static Image carManageButton_normal = new ImageIcon(ImgDir
-			+ BusinessPanelDir + "carmanageButton_normal").getImage();
+			+ BusinessPanelDir + "carmanageButton_normal.png").getImage();
 	public static Image carManageButton_entered = new ImageIcon(ImgDir
-			+ BusinessPanelDir + "carmanageButton_entered").getImage();
+			+ BusinessPanelDir + "carmanageButton_entered.png").getImage();
 	public static Image carManageButton_pressed = new ImageIcon(ImgDir
-			+ BusinessPanelDir + "carmanageButton_pressed").getImage();
+			+ BusinessPanelDir + "carmanageButton_pressed.png").getImage();
 
 	// 司机信息管理按钮
 	public static int DRIVER = 10;
-	public static Image dirverButton_normal = new ImageIcon(ImgDir
-			+ BusinessPanelDir + "driverButton_normal").getImage();
+	public static Image driverButton_normal = new ImageIcon(ImgDir
+			+ BusinessPanelDir + "driverButton_normal.png").getImage();
 	public static Image driverButton_entered = new ImageIcon(ImgDir
-			+ BusinessPanelDir + "driverButton_entered").getImage();
+			+ BusinessPanelDir + "driverButton_entered.png").getImage();
 	public static Image driverButton_pressed = new ImageIcon(ImgDir
-			+ BusinessPanelDir + "driverButton_pressed").getImage();
+			+ BusinessPanelDir + "driverButton_pressed.png").getImage();
+
+	// 快件处理按钮
+	public static int EXPRESS_HANDLE = 11;
+	public static Image expressHandleButton_normal = new ImageIcon(ImgDir
+			+ BusinessPanelDir + "handleExpressButton_normal.png").getImage();
+	public static Image expressHandleButton_entered = new ImageIcon(ImgDir
+			+ BusinessPanelDir + "driverButton_entered.png").getImage();
+	public static Image expressHandleButton_pressed = new ImageIcon(ImgDir
+			+ BusinessPanelDir + "handleExpressButton_pressed.png").getImage();
+
+	// 注销按钮
+	public static int Bussiness_UNREGISTER = 12;
+	public static Image logOffButton_normal = new ImageIcon(ImgDir
+			+ BusinessPanelDir + "unregisterButton_normal.png").getImage();
+	public static Image logOffButton_entered = new ImageIcon(ImgDir
+			+ BusinessPanelDir + "unregisterButton_entered.png").getImage();
+	public static Image logOffButton_pressed = new ImageIcon(ImgDir
+			+ BusinessPanelDir + "unregisterButton_pressed.png").getImage();
+	
+	// 营业厅业务员头像
+		public static ImageIcon businesserLogo = new ImageIcon(ImgDir
+				+ BusinessPanelDir + "businesserLogo.png");
 
 }

@@ -12,5 +12,5 @@ public interface WareBlService {
 	/**
 	 * 根据orderID更新相应的库存信息
 	 */
-	public boolean endOrder(String[] orderID);
+	public boolean endOrder(String orderID);
 }

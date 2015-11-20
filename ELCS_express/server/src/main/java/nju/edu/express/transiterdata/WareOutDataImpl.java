@@ -1,9 +1,17 @@
 package nju.edu.express.transiterdata;
 
+import java.rmi.RemoteException;
+import java.rmi.server.UnicastRemoteObject;
+
 import nju.edu.express.PO.WareOutPO;
 import nju.edu.express.transiterdataservice.WareOutDataService;
 
-public class WareOutDataImpl implements WareOutDataService {
+public class WareOutDataImpl extends UnicastRemoteObject implements WareOutDataService {
+
+	public WareOutDataImpl() throws RemoteException {
+		super();
+		// TODO Auto-generated constructor stub
+	}
 
 	@Override
 	public WareOutPO[] getWareOutList(String TransitID) {

@@ -25,7 +25,7 @@ public class UserBlImpl implements UserBlService {
 	public UserVO getUser(String userID) {
 		try {
 			userData = (UserDataService) Naming
-					.lookup("rmi://127.0.0.1:6600/UserService");
+					.lookup("rmi://127.0.0.1:6600/UserData");
 			userPO = userData.getUser(userID);
 		} catch (Exception e) {
 			// TODO Auto-generated catch block

@@ -1,9 +1,17 @@
 package nju.edu.express.managerdata;
 
+import java.rmi.RemoteException;
+import java.rmi.server.UnicastRemoteObject;
+
 import nju.edu.express.PO.DepartmentPO;
 import nju.edu.express.managerdataservice.DepartmentDataService;
 
-public class DepartmentDataImpl implements DepartmentDataService {
+public class DepartmentDataImpl extends UnicastRemoteObject implements DepartmentDataService {
+
+	public DepartmentDataImpl() throws RemoteException {
+		super();
+		// TODO Auto-generated constructor stub
+	}
 
 	@Override
 	public DepartmentPO[] getDepartmentList() {

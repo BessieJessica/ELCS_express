@@ -21,7 +21,7 @@ public class ExpressBlImpl implements ExpressBlService {
 	public ExpressBlImpl() {
 		try {
 			expressData = (ExpressDataService) Naming
-					.lookup("rmi://127.0.0.1:6600/ExpressService");
+					.lookup("rmi://127.0.0.1:6600/ExpressData");
 		} catch (MalformedURLException | RemoteException | NotBoundException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

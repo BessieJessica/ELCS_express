@@ -22,13 +22,13 @@ public class RMIServer {
 			LocateRegistry.createRegistry(port);
 			
 			LogisticsDataService logisticsData = new LogisticsDataImpl();
-			Naming.rebind(host+"LogisticsService",logisticsData);
+			Naming.rebind(host+"LogisticsData",logisticsData);
 
 			UserDataService userData = new UserDataImpl();
-			Naming.rebind(host+"UserService",userData);
+			Naming.rebind(host+"UserData",userData);
 			
 			ExpressDataService expressData = new ExpressDataImpl();
-			Naming.rebind(host+"ExpressService", expressData);
+			Naming.rebind(host+"ExpressData", expressData);
 			
 			
 		} catch (RemoteException | MalformedURLException e) {

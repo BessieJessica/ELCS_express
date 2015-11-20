@@ -7,7 +7,7 @@ public interface PaymentBlService {
 	/**
 	 * 查看付款单列表
 	 */
-	public PaymentVO[] getPaymentList();
+	public PaymentVO[] getPaymentList(String date);
 	
 	/**
 	 * 根据paymentID来查看付款单信息
@@ -17,6 +17,6 @@ public interface PaymentBlService {
 	/**
 	 * 新增付款单信息
 	 */
-	public boolean addPayment(PaymentVO vo);
+	public boolean addPayment(String accountID, PaymentVO vo);
 	
 }

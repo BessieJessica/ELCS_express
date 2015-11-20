@@ -15,7 +15,8 @@ public class BalanceDataImpl extends UnicastRemoteObject implements BalanceDataS
 	}
 
 	@Override
-	public void insertBalance(OrderPO orderPO) {
+	public boolean insertBalance(OrderPO orderPO) {
+		return false;
 		// TODO Auto-generated method stub
 		
 	}

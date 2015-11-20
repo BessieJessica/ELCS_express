@@ -7,10 +7,13 @@ public interface BalanceBlService {
 	/**
 	 * 通过businessID查看相应收款单列表
 	 */
-	public BalanceVO[] getBalanceList(String businessID);
-	
+	public BalanceVO[] getBalanceList(String businessID, String date);
+
 	/**
-	 * 通过balanceID来更新相应信息
+	 * 根据收款单总额更新银行账户金额
+	 * @param businessID
+	 * @param vo
+	 * @return
 	 */
-	public boolean endBalance(double totalIncome);
+	public boolean updateBalanceToAccount(String businessID, BalanceVO vo);
 }

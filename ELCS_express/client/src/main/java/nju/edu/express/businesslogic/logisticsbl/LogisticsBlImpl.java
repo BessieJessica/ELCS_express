@@ -20,7 +20,7 @@ public class LogisticsBlImpl implements LogisticsBlService {
 	public LogisticsBlImpl() {
 		try {
 			logistics = (LogisticsDataService) Naming
-					.lookup("rmi://127.0.0.1:6600/LogisticsService");
+					.lookup("rmi://127.0.0.1:6600/LogisticsData");
 		} catch (MalformedURLException | RemoteException | NotBoundException e) {
 			e.printStackTrace();
 		}

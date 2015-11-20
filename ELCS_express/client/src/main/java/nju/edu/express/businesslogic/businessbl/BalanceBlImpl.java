@@ -6,9 +6,12 @@ import java.rmi.NotBoundException;
 import java.rmi.RemoteException;
 
 import nju.edu.express.PO.BalancePO;
+import nju.edu.express.PO.OrderPO;
 import nju.edu.express.VO.BalanceVO;
 import nju.edu.express.businesserblservice.BalanceBlService;
 import nju.edu.express.businesserdataservice.BalanceDataService;
+import nju.edu.express.businesslogic.financebl.AccountBlImpl;
+import nju.edu.express.financeblservice.AccountBlService;
 
 public class BalanceBlImpl implements BalanceBlService {
 
@@ -52,8 +55,26 @@ public class BalanceBlImpl implements BalanceBlService {
 		return balanceVO;
 	}
 
+	@Override
+	public boolean addBalance(String businessID, BalanceVO vo) {
+
+		try {
+			// 向收款单数据库中添加数据
+			return balanceData.insertBalance(transformV2P(vo));
+		} catch (RemoteException e) {
+			e.printStackTrace();
+		}
+		return false;
+	}
+
+	private OrderPO transformV2P(BalanceVO vo) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 	private BalanceVO transformP2V(BalancePO balancePO) {
 		// TODO Auto-generated method stub
 		return null;
 	}
+
 }

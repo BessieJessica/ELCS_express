@@ -1,9 +1,18 @@
 package nju.edu.express.financedata;
 
+import java.rmi.RemoteException;
+import java.rmi.server.UnicastRemoteObject;
+
 import nju.edu.express.PO.AccountPO;
 import nju.edu.express.financedataservice.AccountDataService;
 
-public class AccountDataImpl implements AccountDataService {
+public class AccountDataImpl extends UnicastRemoteObject implements
+		AccountDataService {
+
+	public AccountDataImpl() throws RemoteException {
+		super();
+		// TODO Auto-generated constructor stub
+	}
 
 	@Override
 	public AccountPO[] getAccountList() {
@@ -30,7 +39,7 @@ public class AccountDataImpl implements AccountDataService {
 	}
 
 	@Override
-	public boolean updateAccount(AccountPO po) {
+	public boolean updateAccount(String accountID, AccountPO po) {
 		// TODO Auto-generated method stub
 		return false;
 	}

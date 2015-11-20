@@ -1,9 +1,17 @@
 package nju.edu.express.managerdata;
 
+import java.rmi.RemoteException;
+import java.rmi.server.UnicastRemoteObject;
+
 import nju.edu.express.PO.SalaryPO;
 import nju.edu.express.managerdataservice.SalaryDataService;
 
-public class SalaryDataImpl implements SalaryDataService {
+public class SalaryDataImpl extends UnicastRemoteObject implements SalaryDataService {
+
+	public SalaryDataImpl() throws RemoteException {
+		super();
+		// TODO Auto-generated constructor stub
+	}
 
 	@Override
 	public SalaryPO[] getSalaryList() {

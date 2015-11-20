@@ -1,18 +1,15 @@
 package nju.edu.express.presentation.expressui;
 
-import java.awt.Color;
-import java.awt.Font;
 import java.awt.Graphics;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 
 import javax.swing.JLabel;
 import javax.swing.JPanel;
-import javax.swing.text.Element;
-import javax.swing.text.IconView;
 
 import nju.edu.express.VO.UserVO;
 import nju.edu.express.uiutil.ClearButton;
+import nju.edu.express.uiutil.ClearLabel;
 import nju.edu.express.uiutil.MyImg;
 
 public class Express_main extends JPanel implements MouseListener{
@@ -47,30 +44,24 @@ public class Express_main extends JPanel implements MouseListener{
 		unregisterButton.setBounds(100, 100, 130, 47);
 		add(unregisterButton);
 		
-		nameLabel = new JLabel(name);
+		nameLabel = new ClearLabel(name);
 		nameLabel.setBounds(100,150,100,50);
-		nameLabel.setFont(new Font("微软雅黑",Font.PLAIN,25));
-		nameLabel.setForeground(Color.WHITE);
 		add(nameLabel);
 		
-		idLabel = new JLabel(id);
+		idLabel = new ClearLabel(id);
 		idLabel.setBounds(100,200,100,50);
-		idLabel.setFont(new Font("微软雅黑",Font.PLAIN,25));
 		add(idLabel);
 		
-		businessLabel = new JLabel(business);
+		businessLabel = new ClearLabel(business);
 		businessLabel.setBounds(100, 250, 500, 50);
-		businessLabel.setFont(new Font("微软雅黑",Font.PLAIN,25));
 		add(businessLabel);
 		
-		cityLabel = new JLabel(city);
+		cityLabel = new ClearLabel(city);
 		cityLabel.setBounds(100, 300, 200, 50);
-		cityLabel.setFont(new Font("微软雅黑",Font.PLAIN,25));
 		add(cityLabel);
 		
-		accessLabel = new JLabel(access);
+		accessLabel = new ClearLabel(access);
 		accessLabel.setBounds(100,350,200,50);
-		accessLabel.setFont(new Font("微软雅黑",Font.PLAIN,25));
 		add(accessLabel);
 		
 		logoLabel = new JLabel(MyImg.expressLogo);

@@ -1,9 +1,17 @@
 package nju.edu.express.managerdata;
 
+import java.rmi.RemoteException;
+import java.rmi.server.UnicastRemoteObject;
+
 import nju.edu.express.PO.StuffPO;
 import nju.edu.express.managerdataservice.StuffDataService;
 
-public class StuffDataImpl implements StuffDataService{
+public class StuffDataImpl extends UnicastRemoteObject implements StuffDataService{
+
+	public StuffDataImpl() throws RemoteException {
+		super();
+		// TODO Auto-generated constructor stub
+	}
 
 	@Override
 	public StuffPO[] getStuffList() {
@@ -24,7 +32,7 @@ public class StuffDataImpl implements StuffDataService{
 	}
 
 	@Override
-	public boolean deleteStuff(String stuffID) {
+	public boolean deleteStuff(String[] stuffID) {
 		// TODO Auto-generated method stub
 		return false;
 	}

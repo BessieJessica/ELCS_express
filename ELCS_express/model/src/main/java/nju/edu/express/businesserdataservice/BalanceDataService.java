@@ -11,7 +11,7 @@ public interface BalanceDataService extends Remote {
 	/**
 	 * 更新营业厅业务员的收款单的信息
 	 */
-	public void insertBalance(OrderPO orderPO) throws RemoteException;
+	public boolean insertBalance(OrderPO orderPO) throws RemoteException;
 
 	/**
 	 * 根据营业厅ID和日期字段名查找多个持久化对象

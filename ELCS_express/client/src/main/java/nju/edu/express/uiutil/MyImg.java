@@ -148,9 +148,9 @@ public class MyImg {
 			+ BusinessPanelDir + "unregisterButton_entered.png").getImage();
 	public static Image logOffButton_pressed = new ImageIcon(ImgDir
 			+ BusinessPanelDir + "unregisterButton_pressed.png").getImage();
-	
+
 	// 营业厅业务员头像
-		public static ImageIcon businesserLogo = new ImageIcon(ImgDir
-				+ BusinessPanelDir + "businesserLogo.png");
+	public static ImageIcon businesserLogo = new ImageIcon(ImgDir
+			+ BusinessPanelDir + "businesserLogo.png");
 
 }
